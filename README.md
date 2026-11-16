@@ -36,6 +36,6 @@ This exploratory study does not identify causal mediation, establish selective a
 
 ## Citation and rights
 
-Cite the versioned Zenodo archival record and the original cohort publications. Zenodo record 24294834 has reserved DOI `10.5281/zenodo.24294834`; registration/public availability occurs only after publication of the deposit. The GitHub source repository is https://github.com/heise3/SACQ-SWITCH-01. A reserved DOI is not evidence of a published archive.
+Cite the versioned Zenodo archival record and the original cohort publications. The archived v1.3.2 release is published at https://doi.org/10.5281/zenodo.24294834 (Git commit `18d984cf0c19e763298c666233e0411496b3ad4c`). The GitHub source repository is https://github.com/heise3/SACQ-SWITCH-01.
 
-Copyright 2026 the authors. Source data, repository annotations, fonts and third-party software retain their own terms. Any public reuse license for this author-created release is stated on the published Zenodo record; no license is conferred on third-party inputs by this repository. The manuscript and submission correspondence are not included.
+Copyright 2026 the authors. Source data, repository annotations, fonts and third-party software retain their own terms. Author-created code and derived outputs are licensed under CC BY 4.0, matching the published Zenodo record; no license is conferred on third-party inputs by this repository. The manuscript and submission correspondence are not included.
