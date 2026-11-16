@@ -1,0 +1,2025 @@
+{
+  "paired": [
+    {
+      "n": 10,
+      "mean_base": 0.2553326321160031,
+      "mean_followup": 0.22221520304590148,
+      "delta": -0.033117429070101644,
+      "ci95": [
+        -0.2865996100208638,
+        0.22036475188066054
+      ],
+      "paired_dz": -0.09346132933065102,
+      "p": 0.7742785047609514,
+      "wilcoxon_p": 0.76953125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.8650276567366683
+    },
+    {
+      "n": 10,
+      "mean_base": 0.2553326321160031,
+      "mean_followup": 0.11059956444120596,
+      "delta": -0.14473306767479716,
+      "ci95": [
+        -0.28649967378830843,
+        -0.0029664615612858547
+      ],
+      "paired_dz": -0.7303257256549225,
+      "p": 0.04627490541550142,
+      "wilcoxon_p": 0.01953125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 10,
+      "mean_base": 1.0636216163635255,
+      "mean_followup": 1.1282304346561431,
+      "delta": 0.0646088182926178,
+      "ci95": [
+        -0.30044756613648294,
+        0.4296652027217185
+      ],
+      "paired_dz": 0.1266060979169212,
+      "p": 0.698225706694561,
+      "wilcoxon_p": 0.921875,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "D28",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": 1.0636216163635255,
+      "mean_followup": 1.1442584056407212,
+      "delta": 0.08063678927719593,
+      "ci95": [
+        -0.3923172581234656,
+        0.5535908366778575
+      ],
+      "paired_dz": 0.12196551525834913,
+      "p": 0.7086853414744342,
+      "wilcoxon_p": 0.76953125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": -0.5832423061132431,
+      "mean_followup": -0.6766110002994538,
+      "delta": -0.09336869418621063,
+      "ci95": [
+        -0.21803510880934818,
+        0.0312977204369269
+      ],
+      "paired_dz": -0.5357653092814024,
+      "p": 0.12446328097320926,
+      "wilcoxon_p": 0.4921875,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 10,
+      "mean_base": -0.5832423061132431,
+      "mean_followup": -0.6849870592355728,
+      "delta": -0.10174475312232971,
+      "ci95": [
+        -0.25115137667032283,
+        0.04766187042566343
+      ],
+      "paired_dz": -0.48715251080524496,
+      "p": 0.15782320142616668,
+      "wilcoxon_p": 0.275390625,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 10,
+      "mean_base": 0.27689760653302076,
+      "mean_followup": 0.3179672833532095,
+      "delta": 0.041069676820188764,
+      "ci95": [
+        -0.32736790822792905,
+        0.40950726186830655
+      ],
+      "paired_dz": 0.0797407162884004,
+      "p": 0.8065798420922988,
+      "wilcoxon_p": 0.845703125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_PB",
+      "timepoint": "D28",
+      "BH_q": 0.8650276567366683
+    },
+    {
+      "n": 10,
+      "mean_base": 0.27689760653302076,
+      "mean_followup": 0.18397900313138962,
+      "delta": -0.09291860340163112,
+      "ci95": [
+        -0.5826147354874253,
+        0.396777528684163
+      ],
+      "paired_dz": -0.13573716490956614,
+      "p": 0.6778417871887502,
+      "wilcoxon_p": 0.42578125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": 1.0635953843593597,
+      "mean_followup": 1.128171581029892,
+      "delta": 0.06457619667053223,
+      "ci95": [
+        -0.3005182707897711,
+        0.42967066413083554
+      ],
+      "paired_dz": 0.12652897364052182,
+      "p": 0.6983989997759941,
+      "wilcoxon_p": 0.921875,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "D28",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": 1.0635953843593597,
+      "mean_followup": 1.1441515926271677,
+      "delta": 0.08055620826780796,
+      "ci95": [
+        -0.3923540462698373,
+        0.5534664628054532
+      ],
+      "paired_dz": 0.12185491718619587,
+      "p": 0.7089354236342379,
+      "wilcoxon_p": 0.76953125,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": -0.5832337290048599,
+      "mean_followup": -0.6765976428985596,
+      "delta": -0.09336391389369965,
+      "ci95": [
+        -0.2180511856955288,
+        0.03132335790812951
+      ],
+      "paired_dz": -0.5356482631078688,
+      "p": 0.12453526735360079,
+      "wilcoxon_p": 0.4921875,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 10,
+      "mean_base": -0.5832337290048599,
+      "mean_followup": -0.6849911451339722,
+      "delta": -0.10175741612911224,
+      "ci95": [
+        -0.2511598424701062,
+        0.04764501021188172
+      ],
+      "paired_dz": -0.4872268285359016,
+      "p": 0.15776661296083433,
+      "wilcoxon_p": 0.275390625,
+      "compartment": "granulocytes",
+      "subtype": "immature neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 10,
+      "mean_base": 0.036342622247156425,
+      "mean_followup": 0.08633757120328862,
+      "delta": 0.04999494895613218,
+      "ci95": [
+        -0.032378890852427546,
+        0.1323687887646919
+      ],
+      "paired_dz": 0.4341697811166459,
+      "p": 0.202998808472127,
+      "wilcoxon_p": 0.083984375,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 10,
+      "mean_base": 0.036342622247156425,
+      "mean_followup": 0.16232414529397113,
+      "delta": 0.12598152304681473,
+      "ci95": [
+        -0.024236416071062417,
+        0.2761994621646919
+      ],
+      "paired_dz": 0.5999400142583646,
+      "p": 0.09029470765094048,
+      "wilcoxon_p": 0.0078125,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.59824538230896,
+      "mean_followup": -0.5922266244888306,
+      "delta": 0.0060187578201293945,
+      "ci95": [
+        -0.0030716006867344617,
+        0.01510911632699325
+      ],
+      "paired_dz": 0.5089377722389778,
+      "p": 0.16532400769768785,
+      "wilcoxon_p": 0.21875,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.59824538230896,
+      "mean_followup": -0.5830753379397922,
+      "delta": 0.015170044369167753,
+      "ci95": [
+        -0.004864957766467535,
+        0.035205046504803036
+      ],
+      "paired_dz": 0.5820178241011248,
+      "p": 0.11894465973179193,
+      "wilcoxon_p": 0.1640625,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.02161282031900353,
+      "mean_followup": -0.18033959592382112,
+      "delta": -0.1587267756048176,
+      "ci95": [
+        -0.44210929005249455,
+        0.12465573884285938
+      ],
+      "paired_dz": -0.43054244381277207,
+      "p": 0.2325509427855693,
+      "wilcoxon_p": 0.30078125,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "D28",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 9,
+      "mean_base": -0.02161282031900353,
+      "mean_followup": -0.07966361070672671,
+      "delta": -0.05805079038772318,
+      "ci95": [
+        -0.43246438797924935,
+        0.31636280720380305
+      ],
+      "paired_dz": -0.11917779655713155,
+      "p": 0.7299414309717375,
+      "wilcoxon_p": 1.0,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 9,
+      "mean_base": -0.4496775455772877,
+      "mean_followup": -0.13598310616281298,
+      "delta": 0.3136944394144747,
+      "ci95": [
+        -0.11892552807213835,
+        0.7463144069010879
+      ],
+      "paired_dz": 0.5573642217540622,
+      "p": 0.13304727264812335,
+      "wilcoxon_p": 0.21875,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_PB",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.4496775455772877,
+      "mean_followup": -0.21101248347096974,
+      "delta": 0.23866506210631794,
+      "ci95": [
+        -0.023491714383151063,
+        0.500821838595787
+      ],
+      "paired_dz": 0.6997881541417216,
+      "p": 0.06900570891356157,
+      "wilcoxon_p": 0.1484375,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5982283618715074,
+      "mean_followup": -0.5922099550565084,
+      "delta": 0.0060184068149990505,
+      "ci95": [
+        -0.0030714678585442396,
+        0.01510828148854234
+      ],
+      "paired_dz": 0.5089351797527343,
+      "p": 0.16532591086637877,
+      "wilcoxon_p": 0.21875,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5982283618715074,
+      "mean_followup": -0.5830593638949924,
+      "delta": 0.015168997976515029,
+      "ci95": [
+        -0.004864138587049691,
+        0.03520213454007975
+      ],
+      "paired_dz": 0.5820318742026442,
+      "p": 0.11893703552075237,
+      "wilcoxon_p": 0.1640625,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.021620742976665497,
+      "mean_followup": -0.1804299590488275,
+      "delta": -0.158809216072162,
+      "ci95": [
+        -0.44230830397821297,
+        0.12468987183388894
+      ],
+      "paired_dz": -0.4305889326086036,
+      "p": 0.23250495257656528,
+      "wilcoxon_p": 0.30078125,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "D28",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 9,
+      "mean_base": -0.021620742976665497,
+      "mean_followup": -0.07959189514319102,
+      "delta": -0.05797115216652552,
+      "ci95": [
+        -0.4324825278419647,
+        0.31654022350891364
+      ],
+      "paired_dz": -0.11898322748092763,
+      "p": 0.7303618355673134,
+      "wilcoxon_p": 1.0,
+      "compartment": "granulocytes",
+      "subtype": "mature neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.8314888589535567
+    },
+    {
+      "n": 10,
+      "mean_base": 0.7083247456368404,
+      "mean_followup": 0.6914472257508099,
+      "delta": -0.016877519886030555,
+      "ci95": [
+        -0.21687440071803255,
+        0.18311936094597142
+      ],
+      "paired_dz": -0.060368193523332586,
+      "p": 0.8528401075069634,
+      "wilcoxon_p": 0.431640625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.8765301104932679
+    },
+    {
+      "n": 10,
+      "mean_base": 0.7083247456368404,
+      "mean_followup": 0.7270762902648229,
+      "delta": 0.018751544627982397,
+      "ci95": [
+        -0.1800674000555115,
+        0.2175704893114763
+      ],
+      "paired_dz": 0.06746865580942785,
+      "p": 0.8358050836492399,
+      "wilcoxon_p": 1.0,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.8765301104932679
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835564467642043,
+      "mean_followup": -0.573705083794064,
+      "delta": 0.009851362970140245,
+      "ci95": [
+        -0.005170362238063091,
+        0.02487308817834358
+      ],
+      "paired_dz": 0.5040984181616,
+      "p": 0.16891106682358037,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835564467642043,
+      "mean_followup": -0.5793736378351847,
+      "delta": 0.004182808929019504,
+      "ci95": [
+        -0.01355081367438023,
+        0.021916431532419237
+      ],
+      "paired_dz": 0.18130483738535405,
+      "p": 0.6013254612399472,
+      "wilcoxon_p": 0.91015625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.767208347099243
+    },
+    {
+      "n": 9,
+      "mean_base": 0.669659780131446,
+      "mean_followup": 0.40677252411842346,
+      "delta": -0.26288725601302254,
+      "ci95": [
+        -0.6034013441943573,
+        0.07762683216831229
+      ],
+      "paired_dz": -0.5934351622045809,
+      "p": 0.11289783507431264,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": 0.669659780131446,
+      "mean_followup": 0.32651544403698707,
+      "delta": -0.3431443360944589,
+      "ci95": [
+        -0.7928627960859416,
+        0.10657412389702386
+      ],
+      "paired_dz": -0.5865093596711571,
+      "p": 0.11653051327927316,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": 0.1420135274529457,
+      "mean_followup": -0.09419842126468818,
+      "delta": -0.23621194871763387,
+      "ci95": [
+        -0.6282477932235031,
+        0.15582389578823538
+      ],
+      "paired_dz": -0.4631427951986188,
+      "p": 0.20214970529502835,
+      "wilcoxon_p": 0.30078125,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_PB",
+      "timepoint": "D28",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 9,
+      "mean_base": 0.1420135274529457,
+      "mean_followup": 0.15388951533370548,
+      "delta": 0.011875987880759768,
+      "ci95": [
+        -0.5128865449437547,
+        0.5366385207052742
+      ],
+      "paired_dz": 0.01739585396545117,
+      "p": 0.959658841543764,
+      "wilcoxon_p": 0.65234375,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.9728048530717608
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835442013210721,
+      "mean_followup": -0.5736925469504462,
+      "delta": 0.009851654370625814,
+      "ci95": [
+        -0.005168389368139665,
+        0.024871698109391292
+      ],
+      "paired_dz": 0.5041697639142504,
+      "p": 0.16885768055738598,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835442013210721,
+      "mean_followup": -0.5793611804644266,
+      "delta": 0.004183020856645372,
+      "ci95": [
+        -0.013547540568350367,
+        0.02191358228164111
+      ],
+      "paired_dz": 0.18134532727337327,
+      "p": 0.6012456823634985,
+      "wilcoxon_p": 0.91015625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.767208347099243
+    },
+    {
+      "n": 9,
+      "mean_base": 0.6696581410037147,
+      "mean_followup": 0.4068373309241401,
+      "delta": -0.2628208100795746,
+      "ci95": [
+        -0.603306936017397,
+        0.07766531585824787
+      ],
+      "paired_dz": -0.5933338920363566,
+      "p": 0.11295017773596074,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 9,
+      "mean_base": 0.6696581410037147,
+      "mean_followup": 0.3265390694141388,
+      "delta": -0.3431190715895759,
+      "ci95": [
+        -0.7927881899891072,
+        0.10655004680995545
+      ],
+      "paired_dz": -0.5865305292101204,
+      "p": 0.11651924434879557,
+      "wilcoxon_p": 0.12890625,
+      "compartment": "granulocytes",
+      "subtype": "neutrophil",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 6,
+      "mean_base": 0.11002694418265045,
+      "mean_followup": 0.0,
+      "delta": -0.11002694418265045,
+      "ci95": [
+        -0.15570059228735236,
+        -0.06435329607794854
+      ],
+      "paired_dz": -2.528070372426256,
+      "p": 0.0016021258176061196,
+      "wilcoxon_p": 0.03125,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.05927865525142642
+    },
+    {
+      "n": 11,
+      "mean_base": 0.1113068886298903,
+      "mean_followup": 0.06197823192501439,
+      "delta": -0.0493286567048759,
+      "ci95": [
+        -0.09260762536604304,
+        -0.006049688043708756
+      ],
+      "paired_dz": -0.7657170103876652,
+      "p": 0.02938349848757178,
+      "wilcoxon_p": 0.0419921875,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 0,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_LDG",
+      "timepoint": "D28"
+    },
+    {
+      "n": 8,
+      "mean_base": -0.1981470212340355,
+      "mean_followup": -0.076936274766922,
+      "delta": 0.1212107464671135,
+      "ci95": [
+        -0.25859473514733783,
+        0.5010162280815649
+      ],
+      "paired_dz": 0.26680689162809007,
+      "p": 0.4750799864493912,
+      "wilcoxon_p": 0.625,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.6514095626687246
+    },
+    {
+      "n": 0,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_IFN",
+      "timepoint": "D28"
+    },
+    {
+      "n": 8,
+      "mean_base": 0.06707229092717171,
+      "mean_followup": -0.3403250854462385,
+      "delta": -0.4073973763734102,
+      "ci95": [
+        -1.2399395934502135,
+        0.4251448407033931
+      ],
+      "paired_dz": -0.4090996505391684,
+      "p": 0.2851832169665378,
+      "wilcoxon_p": 0.640625,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.5024656679886619
+    },
+    {
+      "n": 0,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_PB",
+      "timepoint": "D28"
+    },
+    {
+      "n": 8,
+      "mean_base": -0.8381212130188942,
+      "mean_followup": -0.8682119324803352,
+      "delta": -0.03009071946144104,
+      "ci95": [
+        -0.11284573973823897,
+        0.05266430081535689
+      ],
+      "paired_dz": -0.30398724974644414,
+      "p": 0.41836616080300953,
+      "wilcoxon_p": 0.546875,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.6014630784609171
+    },
+    {
+      "n": 0,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_LDG_X",
+      "timepoint": "D28"
+    },
+    {
+      "n": 8,
+      "mean_base": -0.19814016669988632,
+      "mean_followup": -0.07706888765096664,
+      "delta": 0.12107127904891968,
+      "ci95": [
+        -0.25854095550178147,
+        0.5006835135996208
+      ],
+      "paired_dz": 0.26663556408598055,
+      "p": 0.47535292410960983,
+      "wilcoxon_p": 0.625,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.6514095626687246
+    },
+    {
+      "n": 0,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_IFN_X",
+      "timepoint": "D28"
+    },
+    {
+      "n": 8,
+      "mean_base": 0.06674784049391747,
+      "mean_followup": -0.3405865281820297,
+      "delta": -0.4073343686759472,
+      "ci95": [
+        -1.2396883042266598,
+        0.4250195668747654
+      ],
+      "paired_dz": -0.40912890510526567,
+      "p": 0.2851515827672171,
+      "wilcoxon_p": 0.640625,
+      "compartment": "B_cells",
+      "subtype": "class switched memory B cell",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.5024656679886619
+    },
+    {
+      "n": 6,
+      "mean_base": 0.7443016268292449,
+      "mean_followup": 0.007246376811594203,
+      "delta": -0.7370552500176507,
+      "ci95": [
+        -0.8877493911067269,
+        -0.5863611089285745
+      ],
+      "paired_dz": -5.132860789085041,
+      "p": 5.651113038407598e-05,
+      "wilcoxon_p": 0.03125,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.004181823648421622
+    },
+    {
+      "n": 11,
+      "mean_base": 0.6588962295506973,
+      "mean_followup": 0.6749117986218555,
+      "delta": 0.016015569071158264,
+      "ci95": [
+        -0.17130974342701671,
+        0.20334088156933322
+      ],
+      "paired_dz": 0.05743700923024924,
+      "p": 0.8527313934079405,
+      "wilcoxon_p": 0.7646484375,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.8765301104932679
+    },
+    {
+      "n": 1,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_LDG",
+      "timepoint": "D28"
+    },
+    {
+      "n": 11,
+      "mean_base": 0.25589462505145505,
+      "mean_followup": 0.6631912006573244,
+      "delta": 0.4072965756058693,
+      "ci95": [
+        -0.5665989386659552,
+        1.3811920898776937
+      ],
+      "paired_dz": 0.28095987572462683,
+      "p": 0.3733706343570542,
+      "wilcoxon_p": 0.921875,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.5878625500894574
+    },
+    {
+      "n": 1,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_IFN",
+      "timepoint": "D28"
+    },
+    {
+      "n": 11,
+      "mean_base": -0.05983740904114463,
+      "mean_followup": -0.37770828943360935,
+      "delta": -0.31787088039246475,
+      "ci95": [
+        -0.8808685830562735,
+        0.2451268222713439
+      ],
+      "paired_dz": -0.3793062780691383,
+      "p": 0.236966556397231,
+      "wilcoxon_p": 0.1474609375,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 1,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_PB",
+      "timepoint": "D28"
+    },
+    {
+      "n": 11,
+      "mean_base": -0.7561573006890037,
+      "mean_followup": -0.7139633623036471,
+      "delta": 0.04219393838535656,
+      "ci95": [
+        -0.007201337945024214,
+        0.09158921471573733
+      ],
+      "paired_dz": 0.5738660781970681,
+      "p": 0.0861524632586595,
+      "wilcoxon_p": 0.1474609375,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 1,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_LDG_X",
+      "timepoint": "D28"
+    },
+    {
+      "n": 11,
+      "mean_base": 0.25590811466628854,
+      "mean_followup": 0.6631608043204654,
+      "delta": 0.4072526896541769,
+      "ci95": [
+        -0.5665411271011431,
+        1.381046506409497
+      ],
+      "paired_dz": 0.28095894117164283,
+      "p": 0.37337216019195263,
+      "wilcoxon_p": 0.921875,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.5878625500894574
+    },
+    {
+      "n": 1,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_IFN_X",
+      "timepoint": "D28"
+    },
+    {
+      "n": 11,
+      "mean_base": -0.06004457632926377,
+      "mean_followup": -0.37787746434861963,
+      "delta": -0.3178328880193559,
+      "ci95": [
+        -0.8807934858770035,
+        0.24512770983829174
+      ],
+      "paired_dz": -0.37928593998922755,
+      "p": 0.23698995499666958,
+      "wilcoxon_p": 0.1474609375,
+      "compartment": "B_cells",
+      "subtype": "naive B cell",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 6,
+      "mean_base": 0.11576197716923019,
+      "mean_followup": 0.4460208492245106,
+      "delta": 0.3302588720552803,
+      "ci95": [
+        -0.08472704918408358,
+        0.7452447932946442
+      ],
+      "paired_dz": 0.8351739492548921,
+      "p": 0.09616186450458027,
+      "wilcoxon_p": 0.15625,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 11,
+      "mean_base": 0.17568386207976514,
+      "mean_followup": 0.22262011034573168,
+      "delta": 0.04693624826596654,
+      "ci95": [
+        -0.09707397644523233,
+        0.1909464729771654
+      ],
+      "paired_dz": 0.21895806843200283,
+      "p": 0.48436551376242803,
+      "wilcoxon_p": 0.46484375,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.651691782153085
+    },
+    {
+      "n": 4,
+      "mean_base": 0.13516727089881897,
+      "mean_followup": 7.959117852151394,
+      "delta": 7.823950581252575,
+      "ci95": [
+        -18.050802619006557,
+        33.69870378151171
+      ],
+      "paired_dz": 0.48115053363639837,
+      "p": 0.40688622727542334,
+      "wilcoxon_p": 0.875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_LDG",
+      "timepoint": "D28",
+      "BH_q": 0.6014630784609171
+    },
+    {
+      "n": 10,
+      "mean_base": 0.08965914295986295,
+      "mean_followup": 0.6262414861470461,
+      "delta": 0.5365823431871831,
+      "ci95": [
+        -0.3683149164633731,
+        1.4414796028377395
+      ],
+      "paired_dz": 0.4241894654085957,
+      "p": 0.21265348189175515,
+      "wilcoxon_p": 0.1484375,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 4,
+      "mean_base": -0.4676121845841408,
+      "mean_followup": -0.40756114199757576,
+      "delta": 0.06005104258656502,
+      "ci95": [
+        -0.6479397633715772,
+        0.7680418485447073
+      ],
+      "paired_dz": 0.1349658900933151,
+      "p": 0.804716016033602,
+      "wilcoxon_p": 0.875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_IFN",
+      "timepoint": "D28",
+      "BH_q": 0.8650276567366683
+    },
+    {
+      "n": 10,
+      "mean_base": -0.1545797973871231,
+      "mean_followup": -0.6234720073640346,
+      "delta": -0.46889220997691156,
+      "ci95": [
+        -0.996071648263273,
+        0.05828722830944982
+      ],
+      "paired_dz": -0.6362639666925499,
+      "p": 0.07508009464837125,
+      "wilcoxon_p": 0.232421875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 4,
+      "mean_base": 0.7176720127463341,
+      "mean_followup": 0.7168464362621307,
+      "delta": -0.0008255764842033386,
+      "ci95": [
+        -0.4775398812450403,
+        0.47588872827663364
+      ],
+      "paired_dz": -0.002755689105238982,
+      "p": 0.9959485845992042,
+      "wilcoxon_p": 1.0,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_PB",
+      "timepoint": "D28",
+      "BH_q": 0.9959485845992042
+    },
+    {
+      "n": 10,
+      "mean_base": 0.7973295003175735,
+      "mean_followup": 0.5460271626710892,
+      "delta": -0.25130233764648435,
+      "ci95": [
+        -0.4144527862377867,
+        -0.08815188905518204
+      ],
+      "paired_dz": -1.1018717035361436,
+      "p": 0.006890375252253369,
+      "wilcoxon_p": 0.013671875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.1699625895555831
+    },
+    {
+      "n": 4,
+      "mean_base": 0.1350678689777851,
+      "mean_followup": 7.964736834168434,
+      "delta": 7.829668965190649,
+      "ci95": [
+        -18.063352507777733,
+        33.722690438159034
+      ],
+      "paired_dz": 0.48116248418282687,
+      "p": 0.40687596841983986,
+      "wilcoxon_p": 0.875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_LDG_X",
+      "timepoint": "D28",
+      "BH_q": 0.6014630784609171
+    },
+    {
+      "n": 10,
+      "mean_base": 0.08962718797847628,
+      "mean_followup": 0.6264916241168976,
+      "delta": 0.5368644361384213,
+      "ci95": [
+        -0.36807026543479315,
+        1.4417991377116357
+      ],
+      "paired_dz": 0.4243949108084841,
+      "p": 0.21245088022348546,
+      "wilcoxon_p": 0.1484375,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 4,
+      "mean_base": -0.4673866033554077,
+      "mean_followup": -0.407301377505064,
+      "delta": 0.060085225850343704,
+      "ci95": [
+        -0.6477883300743092,
+        0.7679587817749967
+      ],
+      "paired_dz": 0.13506508571279144,
+      "p": 0.8045770166397673,
+      "wilcoxon_p": 0.875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_IFN_X",
+      "timepoint": "D28",
+      "BH_q": 0.8650276567366683
+    },
+    {
+      "n": 10,
+      "mean_base": -0.15428547859191893,
+      "mean_followup": -0.6233367688953877,
+      "delta": -0.4690512903034687,
+      "ci95": [
+        -0.9963613361112734,
+        0.05825875550433601
+      ],
+      "paired_dz": -0.6363221835817926,
+      "p": 0.07505779346167811,
+      "wilcoxon_p": 0.232421875,
+      "compartment": "B_cells",
+      "subtype": "plasma cell",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 6,
+      "mean_base": 0.02990945181887454,
+      "mean_followup": 0.5467327739638953,
+      "delta": 0.5168233221450207,
+      "ci95": [
+        0.07812208044647062,
+        0.9555245638435708
+      ],
+      "paired_dz": 1.236314745060866,
+      "p": 0.029136721150135117,
+      "wilcoxon_p": 0.0625,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "fraction",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 11,
+      "mean_base": 0.05411301973964728,
+      "mean_followup": 0.04048985910739839,
+      "delta": -0.013623160632248898,
+      "ci95": [
+        -0.06118189969996801,
+        0.03393557843547021
+      ],
+      "paired_dz": -0.19243916099873065,
+      "p": 0.5376531299133634,
+      "wilcoxon_p": 0.845703125,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "fraction",
+      "timepoint": "M3",
+      "BH_q": 0.7104702073855159
+    },
+    {
+      "n": 3,
+      "mean_base": -0.19227718003094196,
+      "mean_followup": -0.24894541998704275,
+      "delta": -0.056668239956100784,
+      "ci95": [
+        -0.3004919972933153,
+        0.18715551738111377
+      ],
+      "paired_dz": -0.5773502691896257,
+      "p": 0.42264973081037416,
+      "wilcoxon_p": 1.0,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_LDG",
+      "timepoint": "D28",
+      "BH_q": 0.6014630784609171
+    },
+    {
+      "n": 7,
+      "mean_base": -0.2098863095577274,
+      "mean_followup": -0.2502755182129996,
+      "delta": -0.040389208655272214,
+      "ci95": [
+        -0.12887636860898274,
+        0.04809795129843831
+      ],
+      "paired_dz": -0.4221379454634935,
+      "p": 0.30676748687949357,
+      "wilcoxon_p": 0.5,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_LDG",
+      "timepoint": "M3",
+      "BH_q": 0.5159271370246028
+    },
+    {
+      "n": 3,
+      "mean_base": -0.0982188085714976,
+      "mean_followup": -0.6969180578986803,
+      "delta": -0.5986992493271828,
+      "ci95": [
+        -1.7806849986715894,
+        0.5832865000172238
+      ],
+      "paired_dz": -1.258265071364167,
+      "p": 0.16113754062128421,
+      "wilcoxon_p": 0.25,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_IFN",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 7,
+      "mean_base": 0.30745167498077663,
+      "mean_followup": -0.2248196921178273,
+      "delta": -0.5322713670986039,
+      "ci95": [
+        -1.542457338306332,
+        0.47791460410912423
+      ],
+      "paired_dz": -0.4873052337324034,
+      "p": 0.24476708491287966,
+      "wilcoxon_p": 0.21875,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_IFN",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    },
+    {
+      "n": 3,
+      "mean_base": 1.1747076114018757,
+      "mean_followup": 0.919942835966746,
+      "delta": -0.2547647754351298,
+      "ci95": [
+        -1.158121447287237,
+        0.6485918964169775
+      ],
+      "paired_dz": -0.700576866263097,
+      "p": 0.34882149646289085,
+      "wilcoxon_p": 0.5,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_PB",
+      "timepoint": "D28",
+      "BH_q": 0.5736175719611982
+    },
+    {
+      "n": 7,
+      "mean_base": 0.9569756218365261,
+      "mean_followup": 0.7800933590957096,
+      "delta": -0.1768822627408164,
+      "ci95": [
+        -0.5350065952402311,
+        0.18124206975859827
+      ],
+      "paired_dz": -0.4567933362891132,
+      "p": 0.2722952935988692,
+      "wilcoxon_p": 0.21875,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_PB",
+      "timepoint": "M3",
+      "BH_q": 0.5024656679886619
+    },
+    {
+      "n": 3,
+      "mean_base": -0.19220692416032156,
+      "mean_followup": -0.24893134335676828,
+      "delta": -0.05672441919644674,
+      "ci95": [
+        -0.3007898962954911,
+        0.18734105790259759
+      ],
+      "paired_dz": -0.5773502691896258,
+      "p": 0.42264973081037416,
+      "wilcoxon_p": 1.0,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_LDG_X",
+      "timepoint": "D28",
+      "BH_q": 0.6014630784609171
+    },
+    {
+      "n": 7,
+      "mean_base": -0.20984921497958048,
+      "mean_followup": -0.25027867193732944,
+      "delta": -0.04042945695774896,
+      "ci95": [
+        -0.12898269139688345,
+        0.04812377748138553
+      ],
+      "paired_dz": -0.42224331624929595,
+      "p": 0.30665732775095517,
+      "wilcoxon_p": 0.5,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_LDG_X",
+      "timepoint": "M3",
+      "BH_q": 0.5159271370246028
+    },
+    {
+      "n": 3,
+      "mean_base": -0.09801129500071208,
+      "mean_followup": -0.6967601925134659,
+      "delta": -0.5987488975127538,
+      "ci95": [
+        -1.7807767763783837,
+        0.5832789813528759
+      ],
+      "paired_dz": -1.2583245647368073,
+      "p": 0.16112578862863802,
+      "wilcoxon_p": 0.25,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_IFN_X",
+      "timepoint": "D28",
+      "BH_q": 0.431014446377412
+    },
+    {
+      "n": 7,
+      "mean_base": 0.3076615392097405,
+      "mean_followup": -0.22461854134287154,
+      "delta": -0.532280080552612,
+      "ci95": [
+        -1.5424099425531783,
+        0.4778497814479543
+      ],
+      "paired_dz": -0.48734027963346516,
+      "p": 0.24473692934422073,
+      "wilcoxon_p": 0.21875,
+      "compartment": "B_cells",
+      "subtype": "plasmablast",
+      "measure": "M_IFN_X",
+      "timepoint": "M3",
+      "BH_q": 0.4644298534244384
+    }
+  ],
+  "baseline_subtype": [
+    {
+      "n": 9,
+      "mean_base": -0.59824538230896,
+      "mean_followup": 1.2248850464820862,
+      "delta": 1.8231304287910461,
+      "ci95": [
+        1.4153558974663818,
+        2.2309049601157103
+      ],
+      "paired_dz": 3.436659219619428,
+      "p": 6.755163939623678e-06,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_LDG",
+      "reference": "mature neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 1.3544883968099002e-05
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835564467642043,
+      "mean_followup": 1.2248850464820862,
+      "delta": 1.8084414932462904,
+      "ci95": [
+        1.4038899784956187,
+        2.212993007996962
+      ],
+      "paired_dz": 3.436128988641421,
+      "p": 6.762980961906974e-06,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_LDG",
+      "reference": "neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 1.3544883968099002e-05
+    },
+    {
+      "n": 9,
+      "mean_base": -0.02161282031900353,
+      "mean_followup": -0.5492207507292429,
+      "delta": -0.5276079304102395,
+      "ci95": [
+        -0.787297787626061,
+        -0.2679180731944179
+      ],
+      "paired_dz": -1.5616911679911887,
+      "p": 0.001571517272373839,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_IFN",
+      "reference": "mature neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 0.001573676299750161
+    },
+    {
+      "n": 9,
+      "mean_base": 0.669659780131446,
+      "mean_followup": -0.5492207507292429,
+      "delta": -1.218880530860689,
+      "ci95": [
+        -1.6469839301999232,
+        -0.7907771315214547
+      ],
+      "paired_dz": -2.1885238852910316,
+      "p": 0.00017558765987806587,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_IFN",
+      "reference": "neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 0.00023416550222933588
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5982283618715074,
+      "mean_followup": 1.2248466345998976,
+      "delta": 1.823074996471405,
+      "ci95": [
+        1.4152366054991687,
+        2.2309133874436413
+      ],
+      "paired_dz": 3.436016629551491,
+      "p": 6.764638732053626e-06,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_LDG_X",
+      "reference": "mature neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 1.3544883968099002e-05
+    },
+    {
+      "n": 9,
+      "mean_base": -0.5835442013210721,
+      "mean_followup": 1.2248466345998976,
+      "delta": 1.8083908359209697,
+      "ci95": [
+        1.4037751935144558,
+        2.2130064783274834
+      ],
+      "paired_dz": 3.435488159327721,
+      "p": 6.772441984049501e-06,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_LDG_X",
+      "reference": "neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 1.3544883968099002e-05
+    },
+    {
+      "n": 9,
+      "mean_base": -0.021620742976665497,
+      "mean_followup": -0.5492108563582102,
+      "delta": -0.5275901133815447,
+      "ci95": [
+        -0.7873299808341374,
+        -0.26785024592895196
+      ],
+      "paired_dz": -1.561337753143515,
+      "p": 0.001573676299750161,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_IFN_X",
+      "reference": "mature neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 0.001573676299750161
+    },
+    {
+      "n": 9,
+      "mean_base": 0.6696581410037147,
+      "mean_followup": -0.5492108563582102,
+      "delta": -1.2188689973619249,
+      "ci95": [
+        -1.6469812870823077,
+        -0.790756707641542
+      ],
+      "paired_dz": -2.1884577291817098,
+      "p": 0.00017562412667200192,
+      "wilcoxon_p": 0.00390625,
+      "measure": "M_IFN_X",
+      "reference": "neutrophil",
+      "comparison": "immature neutrophil",
+      "BH_q": 0.00023416550222933588
+    }
+  ],
+  "change_contrasts": [
+    {
+      "n": 10,
+      "mean_base": 0.12598152304681473,
+      "mean_followup": -0.14473306767479716,
+      "delta": -0.27071459072161186,
+      "ci95": [
+        -0.4847179246173089,
+        -0.056711256825914796
+      ],
+      "paired_dz": -0.9049277340422822,
+      "p": 0.01873046076944389,
+      "wilcoxon_p": 0.013671875,
+      "measure": "fraction",
+      "reference_change": "mature neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.11238276461666336
+    },
+    {
+      "n": 10,
+      "mean_base": 0.018751544627982397,
+      "mean_followup": -0.14473306767479716,
+      "delta": -0.16348461230277953,
+      "ci95": [
+        -0.474431645598132,
+        0.14746242099257298
+      ],
+      "paired_dz": -0.37610857769350514,
+      "p": 0.2647288240614109,
+      "wilcoxon_p": 0.375,
+      "measure": "fraction",
+      "reference_change": "neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.5294576481228218
+    },
+    {
+      "n": 9,
+      "mean_base": 0.015170044369167753,
+      "mean_followup": 0.040141761302948,
+      "delta": 0.024971716933780246,
+      "ci95": [
+        -0.4934541094671067,
+        0.5433975433346672
+      ],
+      "paired_dz": 0.03702547184182657,
+      "p": 0.9142919461800136,
+      "wilcoxon_p": 0.91015625,
+      "measure": "M_LDG",
+      "reference_change": "mature neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.9142919461800136
+    },
+    {
+      "n": 9,
+      "mean_base": 0.004182808929019504,
+      "mean_followup": 0.040141761302948,
+      "delta": 0.035958952373928495,
+      "ci95": [
+        -0.490230784280734,
+        0.562148689028591
+      ],
+      "paired_dz": 0.05252952632579251,
+      "p": 0.8786859252316939,
+      "wilcoxon_p": 0.91015625,
+      "measure": "M_LDG",
+      "reference_change": "neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.9142919461800136
+    },
+    {
+      "n": 9,
+      "mean_base": -0.05805078811115689,
+      "mean_followup": -0.12371989091237386,
+      "delta": -0.06566910280121697,
+      "ci95": [
+        -0.32557736482725036,
+        0.19423915922481644
+      ],
+      "paired_dz": -0.19421368323615879,
+      "p": 0.576184420673636,
+      "wilcoxon_p": 0.5703125,
+      "measure": "M_IFN",
+      "reference_change": "mature neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.8642766310104539
+    },
+    {
+      "n": 9,
+      "mean_base": -0.34314435058169895,
+      "mean_followup": -0.12371989091237386,
+      "delta": 0.21942445966932508,
+      "ci95": [
+        -0.09720747148620004,
+        0.5360563908248502
+      ],
+      "paired_dz": 0.5326833899493504,
+      "p": 0.1486990110914417,
+      "wilcoxon_p": 0.1640625,
+      "measure": "M_IFN",
+      "reference_change": "neutrophil",
+      "comparison_change": "immature neutrophil",
+      "BH_q": 0.44609703327432515
+    }
+  ],
+  "correlations": [
+    {
+      "B_subtype": "plasmablast",
+      "timepoint": "D28",
+      "n_donors": 6,
+      "spearman_rho": -0.8116794499134278,
+      "spearman_ci95": [
+        -1.0,
+        0.0
+      ],
+      "spearman_permutation_p": 0.07222222222222222,
+      "permutation_method": "all donor permutations",
+      "pearson_r": -0.7017670082540921,
+      "pearson_ci95": [
+        -0.9641938965294409,
+        0.2550549105567295
+      ],
+      "pearson_p": 0.12015151987827907,
+      "BH_q": 0.21666666666666665
+    },
+    {
+      "B_subtype": "plasmablast",
+      "timepoint": "M3",
+      "n_donors": 10,
+      "spearman_rho": -0.19019836693335312,
+      "spearman_ci95": [
+        -0.78037910965041,
+        0.5480878245906936
+      ],
+      "spearman_permutation_p": 0.602,
+      "permutation_method": "9999 donor permutations + observed",
+      "pearson_r": 0.0732230365516508,
+      "pearson_ci95": [
+        -0.5832950005103478,
+        0.6718738369193152
+      ],
+      "pearson_p": 0.8406806468225786,
+      "BH_q": 0.602
+    },
+    {
+      "B_subtype": "class switched memory B cell",
+      "timepoint": "D28",
+      "n_donors": 6,
+      "status": "NOT_ESTIMABLE_CONSTANT_FRACTION",
+      "spearman_rho": null,
+      "spearman_permutation_p": null
+    },
+    {
+      "B_subtype": "class switched memory B cell",
+      "timepoint": "M3",
+      "n_donors": 10,
+      "spearman_rho": -0.3374487155269168,
+      "spearman_ci95": [
+        -0.9205298013245033,
+        0.39754136045897764
+      ],
+      "spearman_permutation_p": 0.3485,
+      "permutation_method": "9999 donor permutations + observed",
+      "pearson_r": -0.2512588418779645,
+      "pearson_ci95": [
+        -0.7605644704652295,
+        0.44947385093558606
+      ],
+      "pearson_p": 0.48377531798981455,
+      "BH_q": 0.52275
+    }
+  ],
+  "kidney": {
+    "clinical_labels_available": false,
+    "coverage": {
+      "M_IFN": [
+        "IFI27",
+        "IFI44",
+        "IFI44L",
+        "ISG15",
+        "IFIT1",
+        "IFIT3",
+        "OAS1",
+        "OAS2",
+        "OAS3",
+        "OASL",
+        "MX1",
+        "RSAD2",
+        "HERC5",
+        "LY6E",
+        "STAT1",
+        "SIGLEC1"
+      ],
+      "M_LDG": [
+        "DEFA4",
+        "CAMP",
+        "LTF",
+        "LCN2",
+        "MMP8",
+        "MPO",
+        "ELANE",
+        "CTSG",
+        "CEACAM8",
+        "OLFM4",
+        "BPI",
+        "AZU1"
+      ],
+      "M_PB": [
+        "JCHAIN",
+        "TXNDC5",
+        "XBP1",
+        "PRDM1",
+        "SDC1",
+        "TNFRSF17",
+        "POU2AF1",
+        "CD38",
+        "RRM2",
+        "TYMS"
+      ],
+      "NC_HK": [
+        "ACTB",
+        "B2M",
+        "GAPDH",
+        "PGK1",
+        "RPL13A",
+        "SDHA",
+        "TBP",
+        "YWHAZ",
+        "HPRT1"
+      ]
+    },
+    "compartment_results": [
+      {
+        "module": "M_IFN",
+        "compartment": "Glomeruli",
+        "n_LN": 32,
+        "n_controls": 14,
+        "difference": 2.4634694085147255,
+        "ci95": [
+          2.084144375406785,
+          2.842794441622666
+        ],
+        "cohens_d": 2.8867979574408587,
+        "cohens_d_ci95": [
+          2.3167413497061733,
+          3.97530574049635
+        ],
+        "p": 1.6298160389743501e-15,
+        "BH_q": 1.62981603897435e-14
+      },
+      {
+        "module": "M_IFN",
+        "compartment": "Tubulointerstitium",
+        "n_LN": 32,
+        "n_controls": 15,
+        "difference": 1.7563379694504335,
+        "ci95": [
+          1.4572630882515158,
+          2.0554128506493514
+        ],
+        "cohens_d": 2.576076863335014,
+        "cohens_d_ci95": [
+          2.1366860470815725,
+          3.312375797304677
+        ],
+        "p": 1.635057721311608e-13,
+        "BH_q": 8.17528860655804e-13
+      },
+      {
+        "module": "M_LDG",
+        "compartment": "Glomeruli",
+        "n_LN": 32,
+        "n_controls": 14,
+        "difference": 0.3364293696741937,
+        "ci95": [
+          0.0815238599857181,
+          0.5913348793626693
+        ],
+        "cohens_d": 0.6134184950177356,
+        "cohens_d_ci95": [
+          0.24278370298003804,
+          0.9906879239209218
+        ],
+        "p": 0.01091339070996011,
+        "BH_q": 0.015590558157085873
+      },
+      {
+        "module": "M_LDG",
+        "compartment": "Tubulointerstitium",
+        "n_LN": 32,
+        "n_controls": 15,
+        "difference": -0.04792912312823361,
+        "ci95": [
+          -0.24373507845148581,
+          0.1478768321950186
+        ],
+        "cohens_d": -0.1618243066007694,
+        "cohens_d_ci95": [
+          -0.8137106405077768,
+          0.45903257867888925
+        ],
+        "p": 0.6189629477852091,
+        "BH_q": 0.6189629477852091
+      },
+      {
+        "module": "M_PB",
+        "compartment": "Glomeruli",
+        "n_LN": 32,
+        "n_controls": 14,
+        "difference": 0.8571397524858315,
+        "ci95": [
+          0.35301796990194645,
+          1.3612615350697166
+        ],
+        "cohens_d": 0.743399360262142,
+        "cohens_d_ci95": [
+          0.5506263884964978,
+          1.3039136958058937
+        ],
+        "p": 0.0014882839811635774,
+        "BH_q": 0.002976567962327155
+      },
+      {
+        "module": "M_PB",
+        "compartment": "Tubulointerstitium",
+        "n_LN": 32,
+        "n_controls": 15,
+        "difference": 0.6946406347451087,
+        "ci95": [
+          0.3052418260331643,
+          1.084039443457053
+        ],
+        "cohens_d": 0.7844548508692166,
+        "cohens_d_ci95": [
+          0.5628304408492701,
+          1.0867650195049512
+        ],
+        "p": 0.0009442136729759795,
+        "BH_q": 0.0023605341824399486
+      },
+      {
+        "module": "ESI",
+        "compartment": "Glomeruli",
+        "n_LN": 32,
+        "n_controls": 14,
+        "difference": 0.5967845610800125,
+        "ci95": [
+          0.32650370797029604,
+          0.867065414189729
+        ],
+        "cohens_d": 0.9672443713642886,
+        "cohens_d_ci95": [
+          0.7254940533364157,
+          1.477784996955948
+        ],
+        "p": 7.6956960442867e-05,
+        "BH_q": 0.00025652320147622333
+      },
+      {
+        "module": "ESI",
+        "compartment": "Tubulointerstitium",
+        "n_LN": 32,
+        "n_controls": 15,
+        "difference": 0.32335575580843756,
+        "ci95": [
+          0.08273015947701337,
+          0.5639813521398618
+        ],
+        "cohens_d": 0.6277828170099684,
+        "cohens_d_ci95": [
+          0.2558584118941927,
+          0.986414913062744
+        ],
+        "p": 0.00964217281701724,
+        "BH_q": 0.015590558157085873
+      },
+      {
+        "module": "NC_HK",
+        "compartment": "Glomeruli",
+        "n_LN": 32,
+        "n_controls": 14,
+        "difference": 0.0974515420048142,
+        "ci95": [
+          -0.01083136112208924,
+          0.20573444513171765
+        ],
+        "cohens_d": 0.4815684273447022,
+        "cohens_d_ci95": [
+          -0.024620237835382787,
+          1.0357348956050871
+        ],
+        "p": 0.07640128441385192,
+        "BH_q": 0.08489031601539103
+      },
+      {
+        "module": "NC_HK",
+        "compartment": "Tubulointerstitium",
+        "n_LN": 32,
+        "n_controls": 15,
+        "difference": 0.19922781646933274,
+        "ci95": [
+          0.03443478616034715,
+          0.36402084677831836
+        ],
+        "cohens_d": 0.7747210040045974,
+        "cohens_d_ci95": [
+          0.22306758672580043,
+          1.5153993125881353
+        ],
+        "p": 0.019608423711362535,
+        "BH_q": 0.024510529639203166
+      }
+    ],
+    "interaction": [
+      {
+        "module": "M_IFN",
+        "n_LN_pairs": 32,
+        "n_HC_pairs": 14,
+        "difference_in_compartment_differences": 0.7135616024409395,
+        "ci95": [
+          0.49941530403070056,
+          0.9277079008511784
+        ],
+        "p": 3.1310897942407704e-08,
+        "BH_q": 1.5655448971203851e-07
+      },
+      {
+        "module": "M_LDG",
+        "n_LN_pairs": 32,
+        "n_HC_pairs": 14,
+        "difference_in_compartment_differences": 0.39808831737236017,
+        "ci95": [
+          0.11664077551824081,
+          0.6795358592264795
+        ],
+        "p": 0.0066504373599648725,
+        "BH_q": 0.01662609339991218
+      },
+      {
+        "module": "M_PB",
+        "n_LN_pairs": 32,
+        "n_HC_pairs": 14,
+        "difference_in_compartment_differences": 0.16593009228362054,
+        "ci95": [
+          -0.2868448272982238,
+          0.6187050118654649
+        ],
+        "p": 0.4626363183696734,
+        "BH_q": 0.4626363183696734
+      },
+      {
+        "module": "ESI",
+        "n_LN_pairs": 32,
+        "n_HC_pairs": 14,
+        "difference_in_compartment_differences": 0.2820092048279905,
+        "ci95": [
+          0.05319886584151429,
+          0.5108195438144667
+        ],
+        "p": 0.01690339549365282,
+        "BH_q": 0.028172325822754703
+      },
+      {
+        "module": "NC_HK",
+        "n_LN_pairs": 32,
+        "n_HC_pairs": 14,
+        "difference_in_compartment_differences": -0.08778704759280176,
+        "ci95": [
+          -0.2543723435646482,
+          0.07879824837904467
+        ],
+        "p": 0.2882129085365329,
+        "BH_q": 0.3602661356706661
+      }
+    ]
+  },
+  "claim_limits": [
+    "cell proportions are compositional, not absolute depletion",
+    "uncontrolled pre/post therapy does not identify a treatment effect",
+    "frozen LDG granule program is not a functional NETosis assay",
+    "baseline subtype and mediator are contemporaneous where measured"
+  ]
+}

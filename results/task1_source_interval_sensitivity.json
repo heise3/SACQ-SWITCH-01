@@ -1,0 +1,50 @@
+[
+  {
+    "outcome": "any",
+    "predictor": "ESI",
+    "n": 274,
+    "OR": 1.120067998274983,
+    "ci95": [
+      0.8068326378575251,
+      1.5549102278399194
+    ],
+    "p": 0.4980890008545237,
+    "time_adjustment": "source days_since_last_visit"
+  },
+  {
+    "outcome": "any",
+    "predictor": "IFN",
+    "n": 274,
+    "OR": 1.120469359060351,
+    "ci95": [
+      0.777418993299881,
+      1.614896980152422
+    ],
+    "p": 0.5419125532660083,
+    "time_adjustment": "source days_since_last_visit"
+  },
+  {
+    "outcome": "renal",
+    "predictor": "ESI",
+    "n": 274,
+    "OR": 1.1164255384465094,
+    "ci95": [
+      0.7560463920040217,
+      1.6485839970636988
+    ],
+    "p": 0.5797294012466108,
+    "time_adjustment": "source days_since_last_visit"
+  },
+  {
+    "outcome": "renal",
+    "predictor": "IFN",
+    "n": 274,
+    "OR": 1.1732646731504779,
+    "ci95": [
+      0.7876457623241301,
+      1.7476765052364025
+    ],
+    "p": 0.4319198997685997,
+    "time_adjustment": "source days_since_last_visit"
+  }
+]

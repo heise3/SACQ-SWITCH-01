@@ -1,0 +1,32 @@
+contrast,estimate,CI95_low,CI95_high,p,independent_units,unit,interpretation
+Active minus SACQ M_IFN,0.26237053073389777,0.042381818114875514,0.48235924335292,0.020069798381198573,75,HC-anchored module units,patient-paired state association
+Active minus SACQ M_PB,0.3887923430791541,0.16166919323224582,0.6159154929260624,0.0010521955494332176,75,HC-anchored module units,patient-paired state association
+Active minus SACQ M_LDG,0.3939706908490178,0.13255182939272014,0.6553895523053155,0.003646546847147379,75,HC-anchored module units,patient-paired state association
+Active minus SACQ ESI,0.39138151696408596,0.2276203918230387,0.5551426421051332,9.294958893009604e-06,75,HC-anchored module units,patient-paired state association
+Active minus SACQ NC_HK,0.04499152543300771,-0.12162794376010691,0.21161099462612235,0.5921655581000475,75,HC-anchored module units,patient-paired state association
+Landmark any ESI,0.9040699157183795,0.5780561408818164,1.4139498825498045,0.658519291914166,78,HR per SD,not a clear independent hazard association
+Landmark any IFN,1.1125707978685517,0.7262977159188216,1.7042787732079503,0.6239574775341712,78,HR per SD,not a clear independent hazard association
+Landmark renal ESI,0.9130249578447442,0.5494591427301477,1.5171547960879137,0.7254505833372806,78,HR per SD,not a clear independent hazard association
+Landmark renal IFN,1.2588459192541017,0.7951711062059317,1.9928956623988598,0.3260458246250505,78,HR per SD,not a clear independent hazard association
+ILLUMINATE-1 clinical M_IFN,0.059245859386115055,-0.06351778399982522,0.18200950277205533,0.3442094812955242,876,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+ILLUMINATE-1 clinical M_PB,0.1275293249862738,-0.11863617230976556,0.3736948222823132,0.3099220879029889,876,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+ILLUMINATE-1 clinical M_LDG,0.11976838397805258,3.945123662286998e-05,0.23949731671948227,0.049924558100160686,876,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+ILLUMINATE-2 clinical M_IFN,0.07342503647703294,-0.04412493661967651,0.1909750095737424,0.22085834155471384,880,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+ILLUMINATE-2 clinical M_PB,0.2396394989208868,-0.08789311883590609,0.5671721166776796,0.15156963746975782,880,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+ILLUMINATE-2 clinical M_LDG,0.17791240723733445,0.019070380754907468,0.33675443371976144,0.028143885728276568,880,SLEDAI coefficient,estimated clinical decomposition; nominal / q reported separately
+Adult LN month 3 M_IFN,-0.2945730274488548,-1.2095366871048763,0.6203906322071666,0.48494541193547247,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 3 M_PB,-0.8382098023099154,-1.2442728888591588,-0.4321467157606719,0.0011692099118696749,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 3 M_LDG,0.7550468176377578,0.1855651473560247,1.324528487919491,0.014973853754056582,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 3 SLEDAI,-8.0,-11.903632422110054,-4.096367577889946,0.0012261879842074073,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 6 M_IFN,-0.7346257097008863,-1.4965494554113152,0.027298036009542614,0.057071253594331704,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 6 M_PB,-1.2496509087036294,-1.7310467185670704,-0.7682550988401884,0.00023708182916683376,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 6 M_LDG,0.23969394005471406,-0.4058552609522938,0.8852431410617219,0.42269068908239216,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Adult LN month 6 SLEDAI,-8.6,-12.677464640541354,-4.5225353594586455,0.0010136112985074473,10,cohort module units / SLEDAI points,"within-adult therapy trajectory, not controlled treatment effect"
+Immature Base–M3 fraction,-0.14473306767479716,-0.28649967378830843,-0.0029664615612858547,0.04627490541550142,10,fraction / common-reference module,paired donor estimate; fraction is compositional
+Immature Base–M3 M_LDG,0.08063678927719593,-0.3923172581234656,0.5535908366778575,0.7086853414744342,10,fraction / common-reference module,paired donor estimate; fraction is compositional
+Immature Base–M3 M_IFN,-0.10174475312232971,-0.25115137667032283,0.04766187042566343,0.15782320142616668,10,fraction / common-reference module,paired donor estimate; fraction is compositional
+Renal compartment M_IFN,0.7135616024409395,0.49941530403070056,0.9277079008511784,3.1310897942407704e-08,32 LN + 14 HC pairs,module units,paired compartment interaction
+Renal compartment M_LDG,0.39808831737236017,0.11664077551824081,0.6795358592264795,0.0066504373599648725,32 LN + 14 HC pairs,module units,paired compartment interaction
+Renal compartment M_PB,0.16593009228362054,-0.2868448272982238,0.6187050118654649,0.4626363183696734,32 LN + 14 HC pairs,module units,paired compartment interaction
+Renal compartment ESI,0.2820092048279905,0.05319886584151429,0.5108195438144667,0.01690339549365282,32 LN + 14 HC pairs,module units,paired compartment interaction
+Renal compartment NC_HK,-0.08778704759280176,-0.2543723435646482,0.07879824837904467,0.2882129085365329,32 LN + 14 HC pairs,module units,paired compartment interaction

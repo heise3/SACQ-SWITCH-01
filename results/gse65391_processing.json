@@ -1,0 +1,75 @@
+{
+  "raw_samples": 996,
+  "retained": 945,
+  "sle_visits": 899,
+  "sle_patients": 157,
+  "unique_hc": 46,
+  "coverage": {
+    "M_IFN": [
+      "IFI27",
+      "IFI44",
+      "IFI44L",
+      "ISG15",
+      "IFIT1",
+      "IFIT3",
+      "OAS1",
+      "OAS2",
+      "OAS3",
+      "OASL",
+      "MX1",
+      "RSAD2",
+      "EPSTI1",
+      "HERC5",
+      "LY6E",
+      "STAT1",
+      "SIGLEC1",
+      "USP18"
+    ],
+    "M_LDG": [
+      "DEFA4",
+      "DEFA3",
+      "CAMP",
+      "LTF",
+      "LCN2",
+      "MMP8",
+      "MPO",
+      "ELANE",
+      "CTSG",
+      "CEACAM8",
+      "OLFM4",
+      "BPI",
+      "AZU1"
+    ],
+    "M_PB": [
+      "MZB1",
+      "JCHAIN",
+      "TXNDC5",
+      "XBP1",
+      "PRDM1",
+      "SDC1",
+      "TNFRSF17",
+      "POU2AF1",
+      "CD38",
+      "RRM2",
+      "TYMS"
+    ],
+    "NC_HK": [
+      "ACTB",
+      "B2M",
+      "GAPDH",
+      "PGK1",
+      "PPIA",
+      "RPL13A",
+      "RPLP0",
+      "SDHA",
+      "TBP",
+      "YWHAZ",
+      "HPRT1"
+    ]
+  },
+  "processing": {
+    "scale": "already_log2(q01=3.32, q99=14.06)",
+    "n_probes": 87,
+    "n_genes": 53
+  }
+}

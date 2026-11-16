@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the versioned archival release and original cohort publications."
+title: "SACQ-SWITCH-01: analysis code, frozen results and figure source data for lupus activity programs"
+version: 1.3.2
+date-released: '2026-11-16'
+url: 'https://github.com/heise3/SACQ-SWITCH-01'
+authors:
+  - family-names: Liang
+    given-names: Peng
+    orcid: 'https://orcid.org/0009-0007-7583-8595'
+  - family-names: Wu
+    given-names: Jie
+  - family-names: Li
+    given-names: BaoLong
+  - family-names: Wu
+    given-names: XiangYan
+  - family-names: Zhu
+    given-names: Xiaona
+    orcid: 'https://orcid.org/0009-0006-0746-6569'

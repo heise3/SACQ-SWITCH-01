@@ -1,0 +1,38 @@
+[
+  {
+    "figure": "Figure_1_score_decomposition_and_states",
+    "width_mm": 170.0,
+    "height_mm": 190.0,
+    "outside_canvas_text": []
+  },
+  {
+    "figure": "Figure_2_cell_states_and_renal_compartments",
+    "width_mm": 170.0,
+    "height_mm": 180.0,
+    "outside_canvas_text": []
+  },
+  {
+    "figure": "Figure_3_treatment_and_cellular_redistribution",
+    "width_mm": 170.0,
+    "height_mm": 190.0,
+    "outside_canvas_text": []
+  },
+  {
+    "figure": "Figure_4_prospective_models_and_C3_decomposition",
+    "width_mm": 170.0,
+    "height_mm": 190.0,
+    "outside_canvas_text": []
+  },
+  {
+    "figure": "Supplementary_Figure_S1_trial_quadrants",
+    "width_mm": 170.0,
+    "height_mm": 187.0,
+    "outside_canvas_text": []
+  },
+  {
+    "figure": "Supplementary_Figure_S2_B_lineage_and_adult_sensitivities",
+    "width_mm": 170.0,
+    "height_mm": 193.0,
+    "outside_canvas_text": []
+  }
+]

@@ -1,0 +1,11 @@
+resource,SLE_unique_donors,SLE_observations_or_cells,healthy_control_donors,specimen_design,analytic_role
+GSE65391,157,899,46.0,Longitudinal whole blood,75 state pairs; 274 transitions / 78 patients; 267 mediation pairs / 77 patients
+GSE88884 ILLUMINATE-1,879,879,,Adult trial baseline whole blood,876 complete model patients
+GSE88884 ILLUMINATE-2,881,881,,Adult trial baseline whole blood,880 complete model patients; 60 pooled HC across trial resource
+GSE49454,46,157,20.0,Adult longitudinal whole blood,10 operational state-discordant patients
+GSE121239,65,292,20.0,Adult longitudinal PBMC,37 total-score low/high patient pairs
+GSE32591,32,64,15.0,Renal glomerular / tubulointerstitial,14 paired HC; no linked clinical pathology labels
+NatMed2026 granulocytes,11,77112,0.0,Single-cell repeated donors,10 Base–M3 fraction pairs; 9/10 expression pairs
+NatMed2026 B lineage,11,4829,0.0,Single-cell repeated donors,D28 B compartment observed in 6 donors; M3 association n=10
+GSE72747,10,30,0.0,Adult LN therapy whole blood,23–49 years; full module coverage; no full cSLEDAI
+GSE200306 adult sensitivity,53,162,,Adult serial renal biopsies,Partial panel; donor/biopsy/compartment rows; original raw series n=181

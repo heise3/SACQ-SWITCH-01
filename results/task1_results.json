@@ -1,0 +1,1205 @@
+{
+  "transitions": {
+    "n": 274,
+    "patients": 78,
+    "any_events": 64,
+    "renal_events": 52,
+    "metadata_interval_mismatch_n": 5,
+    "elapsed_time_source": "difference in cumulative_time; original days_since_last_visit retained"
+  },
+  "mediation": [
+    {
+      "exposure": "PB",
+      "outcome": "LDG",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "SD LDG",
+      "ACME0": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ACME1": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ACME": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ADE0": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "ADE1": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "ADE": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "total": {
+        "estimate": 0.04200757663041667,
+        "ci95": [
+          -0.11234054291549285,
+          0.19279715172240694
+        ],
+        "bootstrap_sign_p": 0.5827086456771614
+      },
+      "proportion": {
+        "estimate": -0.40241819083216507,
+        "ci95": [
+          -3.1434279253070803,
+          3.674076102462305
+        ],
+        "bootstrap_sign_p": 0.6466766616691654
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "PB",
+      "outcome": "any",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.016761482323908228,
+        "ci95": [
+          0.0034723657665120347,
+          0.03416650722179783
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ACME1": {
+        "estimate": 0.017097125324042867,
+        "ci95": [
+          0.003518004235861316,
+          0.03509188327857895
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ACME": {
+        "estimate": 0.016929303823975547,
+        "ci95": [
+          0.003463039206502052,
+          0.03468160663096764
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ADE0": {
+        "estimate": 0.007163809970523627,
+        "ci95": [
+          -0.043987824378350734,
+          0.06152064362489184
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "ADE1": {
+        "estimate": 0.007499452970658266,
+        "ci95": [
+          -0.04593339109354435,
+          0.06445779982494873
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "ADE": {
+        "estimate": 0.007331631470590946,
+        "ci95": [
+          -0.04478728048984319,
+          0.06301613473264452
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "total": {
+        "estimate": 0.024260935294566494,
+        "ci95": [
+          -0.03206444930657321,
+          0.0827596391824631
+        ],
+        "bootstrap_sign_p": 0.351824087956022
+      },
+      "proportion": {
+        "estimate": 0.6978009552569497,
+        "ci95": [
+          -4.1349034684678045,
+          7.2921550806125754
+        ],
+        "bootstrap_sign_p": 0.35282358820589704
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "PB",
+      "outcome": "renal",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.017302746720054052,
+        "ci95": [
+          0.0032131006033551345,
+          0.03636548858015126
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ACME1": {
+        "estimate": 0.016645367652065812,
+        "ci95": [
+          0.003034720783170687,
+          0.035895392900615775
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ACME": {
+        "estimate": 0.016974057186059932,
+        "ci95": [
+          0.003115831111563055,
+          0.03596884353814113
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ADE0": {
+        "estimate": -0.009751404622242693,
+        "ci95": [
+          -0.060874518648287135,
+          0.05067301780044632
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "ADE1": {
+        "estimate": -0.010408783690230933,
+        "ci95": [
+          -0.06376647985367463,
+          0.05476465953245871
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "ADE": {
+        "estimate": -0.010080094156236813,
+        "ci95": [
+          -0.062397211510187976,
+          0.05283435920898251
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "total": {
+        "estimate": 0.006893963029823119,
+        "ci95": [
+          -0.0486951834663946,
+          0.0763731429627158
+        ],
+        "bootstrap_sign_p": 0.7556221889055472
+      },
+      "proportion": {
+        "estimate": 2.4621624909548494,
+        "ci95": [
+          -9.501672227839453,
+          7.079976071145968
+        ],
+        "bootstrap_sign_p": 0.7566216891554223
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "LDG",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "SD LDG",
+      "ACME0": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ACME1": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ACME": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ADE0": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "ADE1": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "ADE": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "total": {
+        "estimate": 0.04716788138546104,
+        "ci95": [
+          -0.1135644465194944,
+          0.2200381756255685
+        ],
+        "bootstrap_sign_p": 0.6156921539230384
+      },
+      "proportion": {
+        "estimate": -0.29331347061998436,
+        "ci95": [
+          -2.650365778518561,
+          2.9087716596344872
+        ],
+        "bootstrap_sign_p": 0.751624187906047
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "any",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.013625503803475658,
+        "ci95": [
+          0.002278780509396136,
+          0.028362333264526227
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ACME1": {
+        "estimate": 0.013905843855617578,
+        "ci95": [
+          0.0022823792683420935,
+          0.02930602514865628
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ACME": {
+        "estimate": 0.013765673829546618,
+        "ci95": [
+          0.002264303984846275,
+          0.02880963941027002
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ADE0": {
+        "estimate": 0.007325260786622573,
+        "ci95": [
+          -0.0479224678053381,
+          0.07564071880403476
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "ADE1": {
+        "estimate": 0.0076056008387644924,
+        "ci95": [
+          -0.049510171755973685,
+          0.07860791497873287
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "ADE": {
+        "estimate": 0.007465430812693533,
+        "ci95": [
+          -0.04860262098933746,
+          0.07687098446716424
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "total": {
+        "estimate": 0.02123110464224015,
+        "ci95": [
+          -0.03830329978882973,
+          0.09259909417659445
+        ],
+        "bootstrap_sign_p": 0.5497251374312844
+      },
+      "proportion": {
+        "estimate": 0.6483729443902437,
+        "ci95": [
+          -5.546746372264855,
+          4.078828040436815
+        ],
+        "bootstrap_sign_p": 0.5487256371814093
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "renal",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.01404887539463201,
+        "ci95": [
+          0.002495254337362927,
+          0.027959077223147617
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ACME1": {
+        "estimate": 0.014429815783319339,
+        "ci95": [
+          0.0024306315092322006,
+          0.029328435742011362
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ACME": {
+        "estimate": 0.014239345588975674,
+        "ci95": [
+          0.002469163040062921,
+          0.028770542424824772
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ADE0": {
+        "estimate": 0.007051631750801229,
+        "ci95": [
+          -0.04196198049604134,
+          0.07779475605702825
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "ADE1": {
+        "estimate": 0.007432572139488558,
+        "ci95": [
+          -0.04459502882504057,
+          0.08118026085834382
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "ADE": {
+        "estimate": 0.007242101945144894,
+        "ci95": [
+          -0.042939619469218114,
+          0.07974163255917101
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "total": {
+        "estimate": 0.021481447534120568,
+        "ci95": [
+          -0.033300837646934825,
+          0.09774298312895761
+        ],
+        "bootstrap_sign_p": 0.4987506246876562
+      },
+      "proportion": {
+        "estimate": 0.6628671352970171,
+        "ci95": [
+          -4.804261644969969,
+          5.204512119947905
+        ],
+        "bootstrap_sign_p": 0.495752123938031
+      },
+      "proportion_interpretable": false
+    }
+  ],
+  "cox": [
+    {
+      "outcome": "any",
+      "predictor": "ESI",
+      "model": "unadjusted",
+      "n": 78,
+      "events": 49,
+      "HR": 1.0947175056272187,
+      "ci95": [
+        0.7554452935583638,
+        1.5863576454118102
+      ],
+      "p": 0.6325384970411352,
+      "PH_test_p": 0.23331632620854986
+    },
+    {
+      "outcome": "any",
+      "predictor": "ESI",
+      "model": "adjusted",
+      "n": 78,
+      "events": 49,
+      "HR": 0.9040699157183795,
+      "ci95": [
+        0.5780561408818164,
+        1.4139498825498045
+      ],
+      "p": 0.658519291914166,
+      "PH_test_p": 0.466968901194881
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFN",
+      "model": "unadjusted",
+      "n": 78,
+      "events": 49,
+      "HR": 1.141054104543048,
+      "ci95": [
+        0.7640259833836031,
+        1.7041363746929339
+      ],
+      "p": 0.5190745829748941,
+      "PH_test_p": 0.10112835101649503
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFN",
+      "model": "adjusted",
+      "n": 78,
+      "events": 49,
+      "HR": 1.1125707978685517,
+      "ci95": [
+        0.7262977159188216,
+        1.7042787732079503
+      ],
+      "p": 0.6239574775341712,
+      "PH_test_p": 0.03877832273192618
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESI",
+      "model": "unadjusted",
+      "n": 78,
+      "events": 42,
+      "HR": 1.0489586616204678,
+      "ci95": [
+        0.6828856415531944,
+        1.611271649065552
+      ],
+      "p": 0.8272276581341604,
+      "PH_test_p": 0.3485822499558767
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESI",
+      "model": "adjusted",
+      "n": 78,
+      "events": 42,
+      "HR": 0.9130249578447442,
+      "ci95": [
+        0.5494591427301477,
+        1.5171547960879137
+      ],
+      "p": 0.7254505833372806,
+      "PH_test_p": 0.635336988365295
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFN",
+      "model": "unadjusted",
+      "n": 78,
+      "events": 42,
+      "HR": 1.2566409831370913,
+      "ci95": [
+        0.8207014435145985,
+        1.9241425404799666
+      ],
+      "p": 0.2932882100387004,
+      "PH_test_p": 0.2772020363357306
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFN",
+      "model": "adjusted",
+      "n": 78,
+      "events": 42,
+      "HR": 1.2588459192541017,
+      "ci95": [
+        0.7951711062059317,
+        1.9928956623988598
+      ],
+      "p": 0.3260458246250505,
+      "PH_test_p": 0.12553259600893413
+    }
+  ],
+  "discrete": [
+    {
+      "outcome": "any",
+      "predictor": "ESIz",
+      "model": "adjusted",
+      "n_intervals": 230,
+      "patients": 78,
+      "events": 49,
+      "rate_ratio": 1.1151914306791257,
+      "ci95": [
+        0.7901343585206759,
+        1.5739752532576545
+      ],
+      "p": 0.5351649209401095
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFNz",
+      "model": "adjusted",
+      "n_intervals": 230,
+      "patients": 78,
+      "events": 49,
+      "rate_ratio": 1.1062702424450754,
+      "ci95": [
+        0.7122590120289768,
+        1.7182427019536215
+      ],
+      "p": 0.6530273759260699
+    },
+    {
+      "outcome": "any",
+      "predictor": "ESIz",
+      "model": "serology_adjusted",
+      "n_intervals": 164,
+      "patients": 56,
+      "events": 36,
+      "rate_ratio": 1.187113937020516,
+      "ci95": [
+        0.7364530154883625,
+        1.9135497714458312
+      ],
+      "p": 0.4813430119143237
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFNz",
+      "model": "serology_adjusted",
+      "n_intervals": 164,
+      "patients": 56,
+      "events": 36,
+      "rate_ratio": 1.1828536566006904,
+      "ci95": [
+        0.5797301815074233,
+        2.4134378674154093
+      ],
+      "p": 0.6444092115468587
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESIz",
+      "model": "adjusted",
+      "n_intervals": 256,
+      "patients": 78,
+      "events": 42,
+      "rate_ratio": 0.9611521512042857,
+      "ci95": [
+        0.6471812673119484,
+        1.4274415908261109
+      ],
+      "p": 0.8443340089037484
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFNz",
+      "model": "adjusted",
+      "n_intervals": 256,
+      "patients": 78,
+      "events": 42,
+      "rate_ratio": 1.1139272575454604,
+      "ci95": [
+        0.7321802610900925,
+        1.69471098996217
+      ],
+      "p": 0.6143024869887133
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESIz",
+      "model": "serology_adjusted",
+      "n_intervals": 185,
+      "patients": 56,
+      "events": 30,
+      "rate_ratio": 0.9138691910304406,
+      "ci95": [
+        0.5448392949046984,
+        1.5328499726891303
+      ],
+      "p": 0.732862429845577
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFNz",
+      "model": "serology_adjusted",
+      "n_intervals": 185,
+      "patients": 56,
+      "events": 30,
+      "rate_ratio": 0.9197853135954628,
+      "ci95": [
+        0.5008563171226778,
+        1.6891172062399815
+      ],
+      "p": 0.7874505015971249
+    }
+  ],
+  "next_visit_models": [
+    {
+      "outcome": "any",
+      "predictor": "ESI",
+      "model": "unadjusted",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.3235067793882367,
+      "ci95": [
+        1.0489369700425575,
+        1.669947999845552
+      ],
+      "p": 0.018141827214088704
+    },
+    {
+      "outcome": "any",
+      "predictor": "ESI",
+      "model": "demography_treatment_interval",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.1193473682708337,
+      "ci95": [
+        0.8061389126603041,
+        1.55424643467473
+      ],
+      "p": 0.5008138941838116
+    },
+    {
+      "outcome": "any",
+      "predictor": "ESI",
+      "model": "serology_adjusted",
+      "n": 208,
+      "patients": 55,
+      "OR": 1.0093969403957916,
+      "ci95": [
+        0.6547468842173044,
+        1.556146669561283
+      ],
+      "p": 0.9662195700550986
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFN",
+      "model": "unadjusted",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.2427842893758552,
+      "ci95": [
+        0.8497361736783015,
+        1.8176380360902242
+      ],
+      "p": 0.26248868648853485
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFN",
+      "model": "demography_treatment_interval",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.1210357511768063,
+      "ci95": [
+        0.77770374232721,
+        1.6159381613053825
+      ],
+      "p": 0.5402730981897796
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFN",
+      "model": "serology_adjusted",
+      "n": 208,
+      "patients": 55,
+      "OR": 1.2927014191132637,
+      "ci95": [
+        0.8017178730913946,
+        2.0843703440635974
+      ],
+      "p": 0.29220939181173644
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESI",
+      "model": "unadjusted",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.2132551518751282,
+      "ci95": [
+        0.9037914762764657,
+        1.6286810643711647
+      ],
+      "p": 0.19821261268599477
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESI",
+      "model": "demography_treatment_interval",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.1130281316756037,
+      "ci95": [
+        0.7547537736094228,
+        1.641371882086631
+      ],
+      "p": 0.5889848710953249
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESI",
+      "model": "serology_adjusted",
+      "n": 208,
+      "patients": 55,
+      "OR": 0.9524509696849386,
+      "ci95": [
+        0.5976519964430026,
+        1.5178780545415527
+      ],
+      "p": 0.8376614348731851
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFN",
+      "model": "unadjusted",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.2506527900250013,
+      "ci95": [
+        0.8525410387735676,
+        1.834671095068245
+      ],
+      "p": 0.25262764704346874
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFN",
+      "model": "demography_treatment_interval",
+      "n": 274,
+      "patients": 78,
+      "OR": 1.1745132734088723,
+      "ci95": [
+        0.7887550907447565,
+        1.7489350567754736
+      ],
+      "p": 0.4284626947629575
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFN",
+      "model": "serology_adjusted",
+      "n": 208,
+      "patients": 55,
+      "OR": 1.2596039651266238,
+      "ci95": [
+        0.7547929532789655,
+        2.1020362499016567
+      ],
+      "p": 0.37706524990488133
+    }
+  ],
+  "landmark": {
+    "any": {
+      "eligible": 78,
+      "retained": 78,
+      "events": 49,
+      "median_followup_days": 295.0,
+      "median_ESI_cutoff": 0.4887335276190529,
+      "n_low": 39,
+      "n_high": 39,
+      "logrank_p": 0.5912258767198468
+    },
+    "renal": {
+      "eligible": 78,
+      "retained": 78,
+      "events": 42,
+      "median_followup_days": 328.0,
+      "median_ESI_cutoff": 0.4887335276190529,
+      "n_low": 39,
+      "n_high": 39,
+      "logrank_p": 0.5465322434416667
+    }
+  },
+  "missingness": [
+    {
+      "analysis": "mediation",
+      "eligible": 274,
+      "complete": 267,
+      "loss": 0.025547445255474477,
+      "patients": 77
+    },
+    {
+      "analysis": "next_visit_any_unadjusted",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_any_demography_treatment_interval",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_any_serology_adjusted",
+      "eligible": 274,
+      "complete": 208,
+      "loss": 0.24087591240875916
+    },
+    {
+      "analysis": "next_visit_any_unadjusted",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_any_demography_treatment_interval",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_any_serology_adjusted",
+      "eligible": 274,
+      "complete": 208,
+      "loss": 0.24087591240875916
+    },
+    {
+      "analysis": "next_visit_renal_unadjusted",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_renal_demography_treatment_interval",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_renal_serology_adjusted",
+      "eligible": 274,
+      "complete": 208,
+      "loss": 0.24087591240875916
+    },
+    {
+      "analysis": "next_visit_renal_unadjusted",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_renal_demography_treatment_interval",
+      "eligible": 274,
+      "complete": 274,
+      "loss": 0.0
+    },
+    {
+      "analysis": "next_visit_renal_serology_adjusted",
+      "eligible": 274,
+      "complete": 208,
+      "loss": 0.24087591240875916
+    },
+    {
+      "analysis": "Cox_any_unadjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_any_adjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_any_unadjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_any_adjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_renal_unadjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_renal_adjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_renal_unadjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "Cox_renal_adjusted",
+      "eligible": 78,
+      "complete": 78,
+      "loss": 0.0
+    },
+    {
+      "analysis": "discrete_any_adjusted",
+      "eligible": 230,
+      "complete": 230,
+      "loss": 0.0
+    },
+    {
+      "analysis": "discrete_any_serology_adjusted",
+      "eligible": 230,
+      "complete": 164,
+      "loss": 0.28695652173913044
+    },
+    {
+      "analysis": "discrete_renal_adjusted",
+      "eligible": 256,
+      "complete": 256,
+      "loss": 0.0
+    },
+    {
+      "analysis": "discrete_renal_serology_adjusted",
+      "eligible": 256,
+      "complete": 185,
+      "loss": 0.27734375
+    }
+  ],
+  "multiple_imputation": [
+    {
+      "analysis": "next_visit",
+      "outcome": "any",
+      "predictor": "ESI",
+      "n": 274,
+      "patients": 78,
+      "scale": "OR",
+      "estimate": 1.0777677539617934,
+      "ci95": [
+        0.7778174316885871,
+        1.493388145027983
+      ],
+      "p": 0.652675734119313,
+      "df_Rubin": 8695050.296871642,
+      "m": 20
+    },
+    {
+      "analysis": "next_visit",
+      "outcome": "any",
+      "predictor": "IFN",
+      "n": 274,
+      "patients": 78,
+      "scale": "OR",
+      "estimate": 1.0340824709060878,
+      "ci95": [
+        0.7147404117367594,
+        1.4961047942383245
+      ],
+      "p": 0.8588443344925475,
+      "df_Rubin": 3149549.234328646,
+      "m": 20
+    },
+    {
+      "analysis": "next_visit",
+      "outcome": "renal",
+      "predictor": "ESI",
+      "n": 274,
+      "patients": 78,
+      "scale": "OR",
+      "estimate": 1.1349581629229903,
+      "ci95": [
+        0.7815455089065279,
+        1.6481830128968067
+      ],
+      "p": 0.5060048492535548,
+      "df_Rubin": 2135810.4066667855,
+      "m": 20
+    },
+    {
+      "analysis": "next_visit",
+      "outcome": "renal",
+      "predictor": "IFN",
+      "n": 274,
+      "patients": 78,
+      "scale": "OR",
+      "estimate": 1.0401838078296823,
+      "ci95": [
+        0.7010254957608798,
+        1.5434279646230185
+      ],
+      "p": 0.844859388694825,
+      "df_Rubin": 1260027.204536106,
+      "m": 20
+    },
+    {
+      "analysis": "discrete",
+      "outcome": "any",
+      "predictor": "ESIz",
+      "n": 230,
+      "patients": 78,
+      "scale": "rate ratio",
+      "estimate": 1.1140997114589584,
+      "ci95": [
+        0.7674767404801031,
+        1.617271379842049
+      ],
+      "p": 0.5698936200198745,
+      "df_Rubin": 1800640.285509671,
+      "m": 20
+    },
+    {
+      "analysis": "discrete",
+      "outcome": "any",
+      "predictor": "IFNz",
+      "n": 230,
+      "patients": 78,
+      "scale": "rate ratio",
+      "estimate": 0.9817333824498422,
+      "ci95": [
+        0.5832186859164528,
+        1.6525541061873223
+      ],
+      "p": 0.944682669704057,
+      "df_Rubin": 232871.22190297116,
+      "m": 20
+    },
+    {
+      "analysis": "discrete",
+      "outcome": "renal",
+      "predictor": "ESIz",
+      "n": 256,
+      "patients": 78,
+      "scale": "rate ratio",
+      "estimate": 0.9631439353534876,
+      "ci95": [
+        0.616445316903469,
+        1.5048313528732118
+      ],
+      "p": 0.8689916683517029,
+      "df_Rubin": 945444.3467666378,
+      "m": 20
+    },
+    {
+      "analysis": "discrete",
+      "outcome": "renal",
+      "predictor": "IFNz",
+      "n": 256,
+      "patients": 78,
+      "scale": "rate ratio",
+      "estimate": 0.8979167158394923,
+      "ci95": [
+        0.5510698398556994,
+        1.4630712303092142
+      ],
+      "p": 0.6655326317997284,
+      "df_Rubin": 42434.91119365009,
+      "m": 20
+    }
+  ],
+  "consecutive_visit_sensitivity": [
+    {
+      "outcome": "any",
+      "predictor": "ESIz",
+      "n": 224,
+      "OR": 1.1380314092273802,
+      "ci95": [
+        0.7968312619808774,
+        1.6253321753070695
+      ],
+      "p": 0.4770597387380605
+    },
+    {
+      "outcome": "any",
+      "predictor": "IFNz",
+      "n": 224,
+      "OR": 1.0800648430176951,
+      "ci95": [
+        0.7130189362944638,
+        1.636057621674551
+      ],
+      "p": 0.7162161519017523
+    },
+    {
+      "outcome": "renal",
+      "predictor": "ESIz",
+      "n": 224,
+      "OR": 1.0457518549763751,
+      "ci95": [
+        0.6821238215921084,
+        1.603223502199387
+      ],
+      "p": 0.837409907374001
+    },
+    {
+      "outcome": "renal",
+      "predictor": "IFNz",
+      "n": 224,
+      "OR": 1.0414010396694646,
+      "ci95": [
+        0.683589516268485,
+        1.5865019863743635
+      ],
+      "p": 0.8501906253342137
+    }
+  ]
+}

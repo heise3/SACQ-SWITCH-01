@@ -1,0 +1,481 @@
+{
+  "transitions": {
+    "n": 274,
+    "patients": 78,
+    "any_events": 64,
+    "renal_events": 52,
+    "metadata_interval_mismatch_n": 5,
+    "elapsed_time_source": "difference in cumulative_time; original days_since_last_visit retained"
+  },
+  "mediation": [
+    {
+      "exposure": "PB",
+      "outcome": "LDG",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "SD LDG",
+      "ACME0": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ACME1": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ACME": {
+        "estimate": -0.016904612988855813,
+        "ci95": [
+          -0.055902722474209444,
+          0.014201022146967631
+        ],
+        "bootstrap_sign_p": 0.25087456271864067
+      },
+      "ADE0": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "ADE1": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "ADE": {
+        "estimate": 0.05891218961927248,
+        "ci95": [
+          -0.10262369101656028,
+          0.21294890198414274
+        ],
+        "bootstrap_sign_p": 0.46276861569215394
+      },
+      "total": {
+        "estimate": 0.04200757663041667,
+        "ci95": [
+          -0.11234054291549285,
+          0.19279715172240694
+        ],
+        "bootstrap_sign_p": 0.5827086456771614
+      },
+      "proportion": {
+        "estimate": -0.40241819083216507,
+        "ci95": [
+          -3.1434279253070803,
+          3.674076102462305
+        ],
+        "bootstrap_sign_p": 0.6466766616691654
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "PB",
+      "outcome": "any",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.016761482323908228,
+        "ci95": [
+          0.0034723657665120347,
+          0.03416650722179783
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ACME1": {
+        "estimate": 0.017097125324042867,
+        "ci95": [
+          0.003518004235861316,
+          0.03509188327857895
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ACME": {
+        "estimate": 0.016929303823975547,
+        "ci95": [
+          0.003463039206502052,
+          0.03468160663096764
+        ],
+        "bootstrap_sign_p": 0.005997001499250375
+      },
+      "ADE0": {
+        "estimate": 0.007163809970523627,
+        "ci95": [
+          -0.043987824378350734,
+          0.06152064362489184
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "ADE1": {
+        "estimate": 0.007499452970658266,
+        "ci95": [
+          -0.04593339109354435,
+          0.06445779982494873
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "ADE": {
+        "estimate": 0.007331631470590946,
+        "ci95": [
+          -0.04478728048984319,
+          0.06301613473264452
+        ],
+        "bootstrap_sign_p": 0.7426286856571714
+      },
+      "total": {
+        "estimate": 0.024260935294566494,
+        "ci95": [
+          -0.03206444930657321,
+          0.0827596391824631
+        ],
+        "bootstrap_sign_p": 0.351824087956022
+      },
+      "proportion": {
+        "estimate": 0.6978009552569497,
+        "ci95": [
+          -4.1349034684678045,
+          7.2921550806125754
+        ],
+        "bootstrap_sign_p": 0.35282358820589704
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "PB",
+      "outcome": "renal",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.017302746720054052,
+        "ci95": [
+          0.0032131006033551345,
+          0.03636548858015126
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ACME1": {
+        "estimate": 0.016645367652065812,
+        "ci95": [
+          0.003034720783170687,
+          0.035895392900615775
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ACME": {
+        "estimate": 0.016974057186059932,
+        "ci95": [
+          0.003115831111563055,
+          0.03596884353814113
+        ],
+        "bootstrap_sign_p": 0.00399800099950025
+      },
+      "ADE0": {
+        "estimate": -0.009751404622242693,
+        "ci95": [
+          -0.060874518648287135,
+          0.05067301780044632
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "ADE1": {
+        "estimate": -0.010408783690230933,
+        "ci95": [
+          -0.06376647985367463,
+          0.05476465953245871
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "ADE": {
+        "estimate": -0.010080094156236813,
+        "ci95": [
+          -0.062397211510187976,
+          0.05283435920898251
+        ],
+        "bootstrap_sign_p": 0.7886056971514243
+      },
+      "total": {
+        "estimate": 0.006893963029823119,
+        "ci95": [
+          -0.0486951834663946,
+          0.0763731429627158
+        ],
+        "bootstrap_sign_p": 0.7556221889055472
+      },
+      "proportion": {
+        "estimate": 2.4621624909548494,
+        "ci95": [
+          -9.501672227839453,
+          7.079976071145968
+        ],
+        "bootstrap_sign_p": 0.7566216891554223
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "LDG",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "SD LDG",
+      "ACME0": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ACME1": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ACME": {
+        "estimate": -0.013834974990961334,
+        "ci95": [
+          -0.044884702256817115,
+          0.012072000990707168
+        ],
+        "bootstrap_sign_p": 0.2608695652173913
+      },
+      "ADE0": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "ADE1": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "ADE": {
+        "estimate": 0.061002856376422374,
+        "ci95": [
+          -0.1000334526234167,
+          0.22896897642969224
+        ],
+        "bootstrap_sign_p": 0.5027486256871564
+      },
+      "total": {
+        "estimate": 0.04716788138546104,
+        "ci95": [
+          -0.1135644465194944,
+          0.2200381756255685
+        ],
+        "bootstrap_sign_p": 0.6156921539230384
+      },
+      "proportion": {
+        "estimate": -0.29331347061998436,
+        "ci95": [
+          -2.650365778518561,
+          2.9087716596344872
+        ],
+        "bootstrap_sign_p": 0.751624187906047
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "any",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.013625503803475658,
+        "ci95": [
+          0.002278780509396136,
+          0.028362333264526227
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ACME1": {
+        "estimate": 0.013905843855617578,
+        "ci95": [
+          0.0022823792683420935,
+          0.02930602514865628
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ACME": {
+        "estimate": 0.013765673829546618,
+        "ci95": [
+          0.002264303984846275,
+          0.02880963941027002
+        ],
+        "bootstrap_sign_p": 0.015992003998001
+      },
+      "ADE0": {
+        "estimate": 0.007325260786622573,
+        "ci95": [
+          -0.0479224678053381,
+          0.07564071880403476
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "ADE1": {
+        "estimate": 0.0076056008387644924,
+        "ci95": [
+          -0.049510171755973685,
+          0.07860791497873287
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "ADE": {
+        "estimate": 0.007465430812693533,
+        "ci95": [
+          -0.04860262098933746,
+          0.07687098446716424
+        ],
+        "bootstrap_sign_p": 0.8295852073963018
+      },
+      "total": {
+        "estimate": 0.02123110464224015,
+        "ci95": [
+          -0.03830329978882973,
+          0.09259909417659445
+        ],
+        "bootstrap_sign_p": 0.5497251374312844
+      },
+      "proportion": {
+        "estimate": 0.6483729443902437,
+        "ci95": [
+          -5.546746372264855,
+          4.078828040436815
+        ],
+        "bootstrap_sign_p": 0.5487256371814093
+      },
+      "proportion_interpretable": false
+    },
+    {
+      "exposure": "IFN",
+      "outcome": "renal",
+      "n": 267,
+      "patients": 77,
+      "bootstrap_requested": 2000,
+      "bootstrap_success": 2000,
+      "bootstrap_failed": 0,
+      "causal_identification": "NOT_IDENTIFIED: concurrent exposure/mediator and observational assumptions",
+      "unit": "risk difference",
+      "ACME0": {
+        "estimate": 0.01404887539463201,
+        "ci95": [
+          0.002495254337362927,
+          0.027959077223147617
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ACME1": {
+        "estimate": 0.014429815783319339,
+        "ci95": [
+          0.0024306315092322006,
+          0.029328435742011362
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ACME": {
+        "estimate": 0.014239345588975674,
+        "ci95": [
+          0.002469163040062921,
+          0.028770542424824772
+        ],
+        "bootstrap_sign_p": 0.013993003498250875
+      },
+      "ADE0": {
+        "estimate": 0.007051631750801229,
+        "ci95": [
+          -0.04196198049604134,
+          0.07779475605702825
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "ADE1": {
+        "estimate": 0.007432572139488558,
+        "ci95": [
+          -0.04459502882504057,
+          0.08118026085834382
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "ADE": {
+        "estimate": 0.007242101945144894,
+        "ci95": [
+          -0.042939619469218114,
+          0.07974163255917101
+        ],
+        "bootstrap_sign_p": 0.8135932033983009
+      },
+      "total": {
+        "estimate": 0.021481447534120568,
+        "ci95": [
+          -0.033300837646934825,
+          0.09774298312895761
+        ],
+        "bootstrap_sign_p": 0.4987506246876562
+      },
+      "proportion": {
+        "estimate": 0.6628671352970171,
+        "ci95": [
+          -4.804261644969969,
+          5.204512119947905
+        ],
+        "bootstrap_sign_p": 0.495752123938031
+      },
+      "proportion_interpretable": false
+    }
+  ],
+  "cox": [],
+  "discrete": [],
+  "next_visit_models": [],
+  "landmark": {},
+  "missingness": [
+    {
+      "analysis": "mediation",
+      "eligible": 274,
+      "complete": 267,
+      "loss": 0.025547445255474477,
+      "patients": 77
+    }
+  ]
+}

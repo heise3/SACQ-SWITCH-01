@@ -1,0 +1,100 @@
+[
+  {
+    "name": "GSE88884_series_matrix.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE88nnn/GSE88884/matrix/GSE88884_series_matrix.txt.gz",
+    "bytes": 104503,
+    "sha256": "f1d5fb1b7dfe6d1736374f1b984fc51ca8838ef69a44ca178a9b599bb1c29047"
+  },
+  {
+    "name": "GSE88884_preprocessed.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE88nnn/GSE88884/suppl/GSE88884_preprocessed.txt.gz",
+    "bytes": 1299120869,
+    "sha256": "45c06cd84c6fc2a02bdd28409eadf69589af92e069989afa1c79490fc1e57d38"
+  },
+  {
+    "name": "GSE65391_series_matrix.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65391/matrix/GSE65391_series_matrix.txt.gz",
+    "bytes": 90788863,
+    "sha256": "676763982c0fc1cc6a18053464fd6d0fb6be1e20b6301d06ee0ad98db6453e9e"
+  },
+  {
+    "name": "GPL10558.annot.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL10nnn/GPL10558/annot/GPL10558.annot.gz",
+    "bytes": 7290886,
+    "sha256": "c914fdbe1130906ce3b9c97f5a75280591c89c617c168fb687c641f683e76b45"
+  },
+  {
+    "name": "GSE49454_series_matrix.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE49nnn/GSE49454/matrix/GSE49454_series_matrix.txt.gz",
+    "bytes": 43800957,
+    "sha256": "cb106fb5693fb7ea2a12dd6e041e0e7ba942ffa41bf107e9e1be84ad9a853dc7"
+  },
+  {
+    "name": "GSE121239_series_matrix.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121239/matrix/GSE121239_series_matrix.txt.gz",
+    "bytes": 92993584,
+    "sha256": "37be0d11d78139158e4a67624c7e45d209d96e12956e0e27e09cecd1057d1f67"
+  },
+  {
+    "name": "GSE32591_series_matrix.txt.gz",
+    "directory": "inputs/cache",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE32nnn/GSE32591/matrix/GSE32591_series_matrix.txt.gz",
+    "bytes": 6154860,
+    "sha256": "6ce283fd4b40609a73f463c0041f9d0cc088c8cc26fdd93719006d8987e38cd9"
+  },
+  {
+    "name": "natmed2026_bcells.h5ad",
+    "directory": "inputs/cache",
+    "url": "https://datasets.cellxgene.cziscience.com/65c2c3c1-150c-49c6-87a1-76ef4612a2b4.h5ad",
+    "bytes": 63037427,
+    "sha256": "560fd351491c972cbc84d37526e06f5b3db250f6266b305d893b73631ec4f5c4"
+  },
+  {
+    "name": "natmed2026_ldg.h5ad",
+    "directory": "inputs/cache",
+    "url": "https://datasets.cellxgene.cziscience.com/729e31d1-3d93-4a85-9602-df56638f54b2.h5ad",
+    "bytes": 254364558,
+    "sha256": "cc2cf725d4113f551d722465ad419d35e1640ecb21a3026ab1068fd2cfc0416e"
+  },
+  {
+    "name": "GSE72747_series_matrix.txt.gz",
+    "directory": "sources",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72747/matrix/GSE72747_series_matrix.txt.gz",
+    "bytes": 8102280,
+    "sha256": "ea6b0ec923f983759333dc214f633a9236e60f397ff997025bb53bda4e0b33b6"
+  },
+  {
+    "name": "GSE200306_series_matrix.txt.gz",
+    "directory": "sources",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE200nnn/GSE200306/matrix/GSE200306_series_matrix.txt.gz",
+    "bytes": 159389,
+    "sha256": "ed9e587e5eb7877c7379f68336b718d532a85d2bcf5115339c86e1a01cb3c592"
+  },
+  {
+    "name": "GSE200306_normalized_Glom_expression_data.txt.gz",
+    "directory": "sources",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE200nnn/GSE200306/suppl/GSE200306_normalized_Glom_expression_data.txt.gz",
+    "bytes": 153683,
+    "sha256": "96fa629c7a533868482d81b99ad60b3806f2b1464301088421e9202df6e4f083"
+  },
+  {
+    "name": "GSE200306_normalized_TI_expression_Data.txt.gz",
+    "directory": "sources",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE200nnn/GSE200306/suppl/GSE200306_normalized_TI_expression_Data.txt.gz",
+    "bytes": 165273,
+    "sha256": "ff4e17216e39df5e8800aae743ea113083071dfc1e9df28777af5703787891f8"
+  },
+  {
+    "name": "GPL570.annot.gz",
+    "directory": "sources",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz",
+    "bytes": 8471521,
+    "sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394"
+  }
+]

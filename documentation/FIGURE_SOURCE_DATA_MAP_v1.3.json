@@ -1,0 +1,156 @@
+{
+  "Figure 1a": {
+    "sources": [
+      "manuscript/Table_1_cohorts.csv",
+      "results/gse65391_processing.json",
+      "results/gse88884_processing.json",
+      "results/task2_results.json"
+    ],
+    "unit": "resource-specific patients/donors; no pooled unique-person sum",
+    "definition": "eight-resource design; fixed modules; component SLEDAI definitions"
+  },
+  "Figure 1b": {
+    "sources": [
+      "results/task2_phase0_reproduction.csv"
+    ],
+    "filter": "Sero_SLEDAI / Est_cSLEDAI; both trials; M_IFN/M_PB/M_LDG",
+    "estimate": "beta, ci95, p, BH_q",
+    "inference": "independent trial participants; HC3 95% CI"
+  },
+  "Figure 1c": {
+    "sources": [
+      "results/task2_slopes.csv"
+    ],
+    "filter": "logDNA / negative_C3 / negative_C4; both trials; M_PB/M_LDG",
+    "estimate": "beta_SD_per_SD, ci95, p, BH_q",
+    "inference": "independent trial participants; HC3 95% CI"
+  },
+  "Figure 1d": {
+    "sources": [
+      "results/task1_state_paired.json"
+    ],
+    "estimate": "delta, ci95, p",
+    "inference": "75 paired patient means; paired t CI/test"
+  },
+  "Figure 1e": {
+    "sources": [
+      "results/S0_frozen_FE_with_CIs.csv"
+    ],
+    "filter": "IFN/PB/LDG; all-visits and seropositive models",
+    "estimate": "beta, CI_low, CI_high, p",
+    "inference": "frozen patient-clustered standard errors; separate outcome scales"
+  },
+  "Figure 2a,b": {
+    "sources": [
+      "results/task4_ldg_donor_subtype_source.csv",
+      "results/S4_baseline_subtype.csv"
+    ],
+    "filter": "Base; three granulocyte states; M_LDG/M_IFN",
+    "inference": "all observed baseline donors; nine complete pairs for labeled immature–mature contrasts"
+  },
+  "Figure 2c": {
+    "sources": [
+      "results/S4_kidney_compartment_results.csv"
+    ],
+    "filter": "M_IFN/M_PB/M_LDG; Glomeruli/Tubulointerstitium",
+    "estimate": "cohens_d and cohens_d_ci95; p, BH_q",
+    "inference": "32 LN; 14 glomerular / 15 TI controls; existing 2000 donor-bootstrap CI"
+  },
+  "Figure 2d": {
+    "sources": [
+      "results/S4_kidney_interaction.csv"
+    ],
+    "estimate": "difference_in_compartment_differences, ci95, p, BH_q",
+    "inference": "32 LN + 14 control paired compartments; existing Welch CI"
+  },
+  "Figure 3a–d": {
+    "sources": [
+      "results/task3_GSE72747_source.csv",
+      "results/task3_results.json"
+    ],
+    "filter": "all ten subjects; month 0/3/6; IFN/PB/LDG/SLEDAI",
+    "estimate": "all trajectories; mean and pointwise t CI; frozen paired.delta/p/BH_q for M3 and M6",
+    "inference": "ten paired adults; no treatment-effect attribution"
+  },
+  "Figure 3e": {
+    "sources": [
+      "results/task4_ldg_donor_subtype_source.csv",
+      "results/S4_paired.csv",
+      "results/S4_change_contrasts.csv"
+    ],
+    "estimate": "fraction ×100; donor means and pointwise t CI; frozen M3 paired changes and direct subtype-change contrast",
+    "inference": "all observed donors; ten Base–M3 pairs; fractions are compositional"
+  },
+  "Figure 3f,g": {
+    "sources": [
+      "results/task4_ldg_donor_subtype_source.csv",
+      "results/S4_paired.csv"
+    ],
+    "estimate": "M_LDG / M_IFN; three states over Base/D28/M3; available-donor means and pointwise t CI",
+    "inference": "all observed donors; nine/ten Base–M3 expression pairs; missing expression remains undefined"
+  },
+  "Figure 4a": {
+    "sources": [
+      "results/S1_next_visit_models.csv",
+      "results/S1_multiple_imputation.csv",
+      "results/task1_transitions.csv"
+    ],
+    "estimate": "OR / pooled estimate, ci95, p",
+    "inference": "274 transitions / 78 patients; complete serology 208; MI 20 imputations; original clustered/Rubin intervals"
+  },
+  "Figure 4b,c": {
+    "sources": [
+      "results/task1_landmarks.csv",
+      "results/task1_results.json",
+      "supplement/v1.3/KM_GEOMETRY_v1.3.json"
+    ],
+    "estimate": "frozen survival curves, original 95% bands and censor marks; original log-rank p",
+    "inference": "78 first-SACQ landmarks; 39 per median group; no refit",
+    "geometry_provenance": "extracted once from protected original Figure_1_longitudinal_and_mediation.svg, SHA-256 recorded inside geometry JSON"
+  },
+  "Figure 4d": {
+    "sources": [
+      "results/S1_cox.csv"
+    ],
+    "filter": "ESI; unadjusted / adjusted; any / renal",
+    "estimate": "HR, ci95, p",
+    "inference": "78 patients; original patient-robust Cox intervals"
+  },
+  "Figure 4e": {
+    "sources": [
+      "results/task1_mediation_full_table.csv",
+      "results/task1_results.json"
+    ],
+    "filter": "PB/IFN; any/renal; ACME",
+    "estimate": "estimate and ci95 ×100, bootstrap_sign_p",
+    "inference": "267 transitions / 77 clusters; original 2000 patient-cluster bootstrap percentile CI; model decomposition"
+  },
+  "Supplementary S1a–f": {
+    "sources": [
+      "results/task2_trial_source.csv",
+      "results/task2_quadrants.csv"
+    ],
+    "filter": "all four-quadrant participants; IFN/PB/LDG; both trials",
+    "estimate": "all points, median/IQR, 1.5-IQR whiskers",
+    "inference": "descriptive; no new tests; 17 score-5 and 10 missing-serology records retained outside display"
+  },
+  "Supplementary S2a,b": {
+    "sources": [
+      "results/task4_B_granulocyte_correlations_source.csv",
+      "results/S4_correlations.csv"
+    ],
+    "filter": "M3; plasmablast / class-switched memory B cells",
+    "estimate": "all ten donor points; frozen Spearman rho and permutation p",
+    "inference": "ten paired donors; D28 n=6 sensitivity remains in full tables"
+  },
+  "Supplementary S2c,d": {
+    "sources": [
+      "results/task3_results.json",
+      "results/task3_GSE49454_source.csv",
+      "results/task3_GSE121239_source.csv"
+    ],
+    "filter": "all five modules/controls for both original sensitivity cohorts",
+    "estimate": "delta, ci95, p",
+    "inference": "10 whole-blood pairs and 37 PBMC total-score pairs; original paired t intervals"
+  }
+}

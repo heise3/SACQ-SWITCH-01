@@ -1,0 +1,3842 @@
+[
+  {
+    "id": 1,
+    "type": "article-journal",
+    "title": "Systemic lupus erythematosus disease activity index 2000",
+    "author": [
+      {
+        "family": "Gladman",
+        "given": "Dafna D"
+      },
+      {
+        "family": "Ibañez",
+        "given": "Dominique"
+      },
+      {
+        "family": "Urowitz",
+        "given": "Murray B"
+      }
+    ],
+    "container-title": "The Journal of rheumatology",
+    "container-title-short": "J Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "volume": "29",
+    "issue": "2",
+    "page": "288-291",
+    "note": "PMID: 11838846",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/11838846/",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "type": "article-journal",
+    "title": "Serologically active clinically quiescent systemic lupus erythematosus: a discordance between clinical and serologic features",
+    "author": [
+      {
+        "family": "Gladman",
+        "given": "D D"
+      },
+      {
+        "family": "Urowitz",
+        "given": "M B"
+      },
+      {
+        "family": "Keystone",
+        "given": "E C"
+      }
+    ],
+    "container-title": "The American journal of medicine",
+    "container-title-short": "Am J Med",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "volume": "66",
+    "issue": "2",
+    "page": "210-215",
+    "note": "PMID: 218447",
+    "URL": "https://doi.org/10.1016/0002-9343(79)90529-1",
+    "language": "en",
+    "DOI": "10.1016/0002-9343(79)90529-1"
+  },
+  {
+    "id": 3,
+    "type": "article-journal",
+    "title": "Serologically active clinically quiescent systemic lupus erythematosus--predictors of clinical flares",
+    "author": [
+      {
+        "family": "Walz LeBlanc",
+        "given": "B A"
+      },
+      {
+        "family": "Gladman",
+        "given": "D D"
+      },
+      {
+        "family": "Urowitz",
+        "given": "M B"
+      }
+    ],
+    "container-title": "The Journal of rheumatology",
+    "container-title-short": "J Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "12",
+    "page": "2239-2241",
+    "note": "PMID: 7699623",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/7699623/",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "type": "article-journal",
+    "title": "Prolonged serologically active clinically quiescent systemic lupus erythematosus: frequency and outcome",
+    "author": [
+      {
+        "family": "Steiman",
+        "given": "Amanda J"
+      },
+      {
+        "family": "Gladman",
+        "given": "Dafna D"
+      },
+      {
+        "family": "Ibañez",
+        "given": "Dominique"
+      },
+      {
+        "family": "Urowitz",
+        "given": "Murray B"
+      }
+    ],
+    "container-title": "The Journal of rheumatology",
+    "container-title-short": "J Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "volume": "37",
+    "issue": "9",
+    "page": "1822-1827",
+    "note": "PMID: 20595281",
+    "URL": "https://doi.org/10.3899/jrheum.100007",
+    "language": "en",
+    "DOI": "10.3899/jrheum.100007"
+  },
+  {
+    "id": 5,
+    "type": "article-journal",
+    "title": "Outcomes in patients with systemic lupus erythematosus with and without a prolonged serologically active clinically quiescent period",
+    "author": [
+      {
+        "family": "Steiman",
+        "given": "Amanda J"
+      },
+      {
+        "family": "Gladman",
+        "given": "Dafna D"
+      },
+      {
+        "family": "Ibañez",
+        "given": "Dominique"
+      },
+      {
+        "family": "Urowitz",
+        "given": "Murray B"
+      }
+    ],
+    "container-title": "Arthritis care & research",
+    "container-title-short": "Arthritis Care Res (Hoboken)",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "volume": "64",
+    "issue": "4",
+    "page": "511-518",
+    "note": "PMID: 22162433",
+    "URL": "https://doi.org/10.1002/acr.21568",
+    "language": "en",
+    "DOI": "10.1002/acr.21568"
+  },
+  {
+    "id": 6,
+    "type": "article-journal",
+    "title": "Association of antinucleosome antibodies with disease flare in serologically active clinically quiescent patients with systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Ng",
+        "given": "K P"
+      },
+      {
+        "family": "Manson",
+        "given": "J J"
+      },
+      {
+        "family": "Rahman",
+        "given": "A"
+      },
+      {
+        "family": "Isenberg",
+        "given": "D A"
+      }
+    ],
+    "container-title": "Arthritis and rheumatism",
+    "container-title-short": "Arthritis Rheum",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "volume": "55",
+    "issue": "6",
+    "page": "900-904",
+    "note": "PMID: 17139667",
+    "URL": "https://doi.org/10.1002/art.22356",
+    "language": "en",
+    "DOI": "10.1002/art.22356"
+  },
+  {
+    "id": 7,
+    "type": "article-journal",
+    "title": "Prolonged serologically active clinically quiescent systemic lupus erythematosus: a longitudinal study on the role of IgG anti-dsDNA and C3",
+    "author": [
+      {
+        "family": "Piunno",
+        "given": "Silvia"
+      },
+      {
+        "family": "Ortolan",
+        "given": "Augusta"
+      },
+      {
+        "family": "Zolio",
+        "given": "Luigi"
+      },
+      {
+        "family": "Rahman",
+        "given": "Anisur"
+      },
+      {
+        "family": "Isenberg",
+        "given": "David A"
+      }
+    ],
+    "container-title": "Rheumatology (Oxford, England)",
+    "container-title-short": "Rheumatology (Oxford)",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "65",
+    "issue": "8",
+    "page": "keag382",
+    "note": "PMID: 42523176",
+    "URL": "https://doi.org/10.1093/rheumatology/keag382",
+    "language": "en",
+    "DOI": "10.1093/rheumatology/keag382"
+  },
+  {
+    "id": 8,
+    "type": "article-journal",
+    "title": "2021 DORIS definition of remission in SLE: final recommendations from an international task force",
+    "author": [
+      {
+        "family": "van Vollenhoven",
+        "given": "Ronald F"
+      },
+      {
+        "family": "Bertsias",
+        "given": "George"
+      },
+      {
+        "family": "Doria",
+        "given": "Andrea"
+      },
+      {
+        "family": "Isenberg",
+        "given": "David"
+      },
+      {
+        "family": "Morand",
+        "given": "Eric"
+      },
+      {
+        "family": "Petri",
+        "given": "Michelle A"
+      },
+      {
+        "family": "Pons-Estel",
+        "given": "Bernardo A"
+      },
+      {
+        "family": "Rahman",
+        "given": "Anisur"
+      },
+      {
+        "family": "Ugarte-Gil",
+        "given": "Manuel Francisco"
+      },
+      {
+        "family": "Voskuyl",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Arnaud",
+        "given": "Laurent"
+      },
+      {
+        "family": "Bruce",
+        "given": "Ian N"
+      },
+      {
+        "family": "Cervera",
+        "given": "Ricard"
+      },
+      {
+        "family": "Costedoat-Chalumeau",
+        "given": "Nathalie"
+      },
+      {
+        "family": "Gordon",
+        "given": "Caroline"
+      },
+      {
+        "family": "Houssiau",
+        "given": "Frédéric A"
+      },
+      {
+        "family": "Mosca",
+        "given": "Marta"
+      },
+      {
+        "family": "Schneider",
+        "given": "Matthias"
+      },
+      {
+        "family": "Ward",
+        "given": "Michael M"
+      },
+      {
+        "family": "Alarcon",
+        "given": "Graciela"
+      },
+      {
+        "family": "Aringer",
+        "given": "Martin"
+      },
+      {
+        "family": "Askenase",
+        "given": "Anka"
+      },
+      {
+        "family": "Bae",
+        "given": "Sang-Cheol"
+      },
+      {
+        "family": "Bootsma",
+        "given": "Hendrika"
+      },
+      {
+        "family": "Boumpas",
+        "given": "Dimitrios T"
+      },
+      {
+        "family": "Brunner",
+        "given": "Hermine"
+      },
+      {
+        "family": "Clarke",
+        "given": "Ann Elaine"
+      },
+      {
+        "family": "Coney",
+        "given": "Cindy"
+      },
+      {
+        "family": "Czirják",
+        "given": "László"
+      },
+      {
+        "family": "Dörner",
+        "given": "Thomas"
+      },
+      {
+        "family": "Faria",
+        "given": "Raquel"
+      },
+      {
+        "family": "Fischer",
+        "given": "Rebecca"
+      },
+      {
+        "family": "Fritsch-Stork",
+        "given": "Ruth"
+      },
+      {
+        "family": "Inanc",
+        "given": "Murat"
+      },
+      {
+        "family": "Jacobsen",
+        "given": "Søren"
+      },
+      {
+        "family": "Jayne",
+        "given": "David"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Annegret"
+      },
+      {
+        "family": "van Leeuw",
+        "given": "Bernadette"
+      },
+      {
+        "family": "Limper",
+        "given": "Maarten"
+      },
+      {
+        "family": "Mariette",
+        "given": "Xavier"
+      },
+      {
+        "family": "Navarra",
+        "given": "Sandra"
+      },
+      {
+        "family": "Nikpour",
+        "given": "Mandana"
+      },
+      {
+        "family": "Olesinska",
+        "given": "Marzena Helena"
+      },
+      {
+        "family": "Pons-Estel",
+        "given": "Guillermo"
+      },
+      {
+        "family": "Romero-Diaz",
+        "given": "Juanita"
+      },
+      {
+        "family": "Rubio",
+        "given": "Blanca"
+      },
+      {
+        "family": "Schoenfeld",
+        "given": "Yehuda"
+      },
+      {
+        "family": "Bonfá",
+        "given": "Eloisa"
+      },
+      {
+        "family": "Smolen",
+        "given": "Josef"
+      },
+      {
+        "family": "Teng",
+        "given": "Y K Onno"
+      },
+      {
+        "family": "Tincani",
+        "given": "Angela"
+      },
+      {
+        "family": "Tsang-A-Sjoe",
+        "given": "Michel"
+      },
+      {
+        "family": "Vasconcelos",
+        "given": "Carlos"
+      },
+      {
+        "family": "Voss",
+        "given": "Anne"
+      },
+      {
+        "family": "Werth",
+        "given": "Victoria P"
+      },
+      {
+        "family": "Zakharhova",
+        "given": "Elena"
+      },
+      {
+        "family": "Aranow",
+        "given": "Cynthia"
+      }
+    ],
+    "container-title": "Lupus science & medicine",
+    "container-title-short": "Lupus Sci Med",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "1",
+    "page": "e000538",
+    "note": "PMID: 34819388",
+    "URL": "https://doi.org/10.1136/lupus-2021-000538",
+    "language": "en",
+    "DOI": "10.1136/lupus-2021-000538"
+  },
+  {
+    "id": 9,
+    "type": "article-journal",
+    "title": "Treat-to-target in systemic lupus erythematosus: recommendations from an international task force",
+    "author": [
+      {
+        "family": "van Vollenhoven",
+        "given": "Ronald F"
+      },
+      {
+        "family": "Mosca",
+        "given": "Marta"
+      },
+      {
+        "family": "Bertsias",
+        "given": "George"
+      },
+      {
+        "family": "Isenberg",
+        "given": "David"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Annegret"
+      },
+      {
+        "family": "Lerstrøm",
+        "given": "Kirsten"
+      },
+      {
+        "family": "Aringer",
+        "given": "Martin"
+      },
+      {
+        "family": "Bootsma",
+        "given": "Hendrika"
+      },
+      {
+        "family": "Boumpas",
+        "given": "Dimitrios"
+      },
+      {
+        "family": "Bruce",
+        "given": "Ian N"
+      },
+      {
+        "family": "Cervera",
+        "given": "Ricard"
+      },
+      {
+        "family": "Clarke",
+        "given": "Ann"
+      },
+      {
+        "family": "Costedoat-Chalumeau",
+        "given": "Nathalie"
+      },
+      {
+        "family": "Czirják",
+        "given": "László"
+      },
+      {
+        "family": "Derksen",
+        "given": "Ronald"
+      },
+      {
+        "family": "Dörner",
+        "given": "Thomas"
+      },
+      {
+        "family": "Gordon",
+        "given": "Caroline"
+      },
+      {
+        "family": "Graninger",
+        "given": "Winfried"
+      },
+      {
+        "family": "Houssiau",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Inanc",
+        "given": "Murat"
+      },
+      {
+        "family": "Jacobsen",
+        "given": "Søren"
+      },
+      {
+        "family": "Jayne",
+        "given": "David"
+      },
+      {
+        "family": "Jedryka-Goral",
+        "given": "Anna"
+      },
+      {
+        "family": "Levitsky",
+        "given": "Adrian"
+      },
+      {
+        "family": "Levy",
+        "given": "Roger"
+      },
+      {
+        "family": "Mariette",
+        "given": "Xavier"
+      },
+      {
+        "family": "Morand",
+        "given": "Eric"
+      },
+      {
+        "family": "Navarra",
+        "given": "Sandra"
+      },
+      {
+        "family": "Neumann",
+        "given": "Irmgard"
+      },
+      {
+        "family": "Rahman",
+        "given": "Anisur"
+      },
+      {
+        "family": "Rovensky",
+        "given": "Jozef"
+      },
+      {
+        "family": "Smolen",
+        "given": "Josef"
+      },
+      {
+        "family": "Vasconcelos",
+        "given": "Carlos"
+      },
+      {
+        "family": "Voskuyl",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Voss",
+        "given": "Anne"
+      },
+      {
+        "family": "Zakharova",
+        "given": "Helena"
+      },
+      {
+        "family": "Zoma",
+        "given": "Asad"
+      },
+      {
+        "family": "Schneider",
+        "given": "Matthias"
+      }
+    ],
+    "container-title": "Annals of the rheumatic diseases",
+    "container-title-short": "Ann Rheum Dis",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "volume": "73",
+    "issue": "6",
+    "page": "958-967",
+    "note": "PMID: 24739325",
+    "URL": "https://doi.org/10.1136/annrheumdis-2013-205139",
+    "language": "en",
+    "DOI": "10.1136/annrheumdis-2013-205139"
+  },
+  {
+    "id": 10,
+    "type": "article-journal",
+    "title": "Interferon and granulopoiesis signatures in systemic lupus erythematosus blood",
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "Lynda"
+      },
+      {
+        "family": "Palucka",
+        "given": "A Karolina"
+      },
+      {
+        "family": "Arce",
+        "given": "Edsel"
+      },
+      {
+        "family": "Cantrell",
+        "given": "Victoria"
+      },
+      {
+        "family": "Borvak",
+        "given": "Josef"
+      },
+      {
+        "family": "Banchereau",
+        "given": "Jacques"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      }
+    ],
+    "container-title": "The Journal of experimental medicine",
+    "container-title-short": "J Exp Med",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "197",
+    "issue": "6",
+    "page": "711-723",
+    "note": "PMID: 12642603",
+    "URL": "https://doi.org/10.1084/jem.20021553",
+    "language": "en",
+    "DOI": "10.1084/jem.20021553"
+  },
+  {
+    "id": 11,
+    "type": "article-journal",
+    "title": "Interferon-inducible gene expression signature in peripheral blood cells of patients with severe lupus",
+    "author": [
+      {
+        "family": "Baechler",
+        "given": "Emily C"
+      },
+      {
+        "family": "Batliwalla",
+        "given": "Franak M"
+      },
+      {
+        "family": "Karypis",
+        "given": "George"
+      },
+      {
+        "family": "Gaffney",
+        "given": "Patrick M"
+      },
+      {
+        "family": "Ortmann",
+        "given": "Ward A"
+      },
+      {
+        "family": "Espe",
+        "given": "Karl J"
+      },
+      {
+        "family": "Shark",
+        "given": "Katherine B"
+      },
+      {
+        "family": "Grande",
+        "given": "William J"
+      },
+      {
+        "family": "Hughes",
+        "given": "Karis M"
+      },
+      {
+        "family": "Kapur",
+        "given": "Vivek"
+      },
+      {
+        "family": "Gregersen",
+        "given": "Peter K"
+      },
+      {
+        "family": "Behrens",
+        "given": "Timothy W"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc Natl Acad Sci U S A",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "volume": "100",
+    "issue": "5",
+    "page": "2610-2615",
+    "note": "PMID: 12604793",
+    "URL": "https://doi.org/10.1073/pnas.0337679100",
+    "language": "en",
+    "DOI": "10.1073/pnas.0337679100"
+  },
+  {
+    "id": 12,
+    "type": "article-journal",
+    "title": "A modular analysis framework for blood genomics studies: application to systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Chaussabel",
+        "given": "Damien"
+      },
+      {
+        "family": "Quinn",
+        "given": "Charles"
+      },
+      {
+        "family": "Shen",
+        "given": "Jing"
+      },
+      {
+        "family": "Patel",
+        "given": "Pinakeen"
+      },
+      {
+        "family": "Glaser",
+        "given": "Casey"
+      },
+      {
+        "family": "Baldwin",
+        "given": "Nicole"
+      },
+      {
+        "family": "Stichweh",
+        "given": "Dorothee"
+      },
+      {
+        "family": "Blankenship",
+        "given": "Derek"
+      },
+      {
+        "family": "Li",
+        "given": "Lei"
+      },
+      {
+        "family": "Munagala",
+        "given": "Indira"
+      },
+      {
+        "family": "Bennett",
+        "given": "Lynda"
+      },
+      {
+        "family": "Allantaz",
+        "given": "Florence"
+      },
+      {
+        "family": "Mejias",
+        "given": "Asuncion"
+      },
+      {
+        "family": "Ardura",
+        "given": "Monica"
+      },
+      {
+        "family": "Kaizer",
+        "given": "Ellen"
+      },
+      {
+        "family": "Monnet",
+        "given": "Laurence"
+      },
+      {
+        "family": "Allman",
+        "given": "Windy"
+      },
+      {
+        "family": "Randall",
+        "given": "Henry"
+      },
+      {
+        "family": "Johnson",
+        "given": "Diane"
+      },
+      {
+        "family": "Lanier",
+        "given": "Aimee"
+      },
+      {
+        "family": "Punaro",
+        "given": "Marilynn"
+      },
+      {
+        "family": "Wittkowski",
+        "given": "Knut M"
+      },
+      {
+        "family": "White",
+        "given": "Perrin"
+      },
+      {
+        "family": "Fay",
+        "given": "Joseph"
+      },
+      {
+        "family": "Klintmalm",
+        "given": "Goran"
+      },
+      {
+        "family": "Ramilo",
+        "given": "Octavio"
+      },
+      {
+        "family": "Palucka",
+        "given": "A Karolina"
+      },
+      {
+        "family": "Banchereau",
+        "given": "Jacques"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      }
+    ],
+    "container-title": "Immunity",
+    "container-title-short": "Immunity",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "volume": "29",
+    "issue": "1",
+    "page": "150-164",
+    "note": "PMID: 18631455",
+    "URL": "https://doi.org/10.1016/j.immuni.2008.05.012",
+    "language": "en",
+    "DOI": "10.1016/j.immuni.2008.05.012"
+  },
+  {
+    "id": 13,
+    "type": "article-journal",
+    "title": "Modular transcriptional repertoire analyses of adults with systemic lupus erythematosus reveal distinct type I and type II interferon signatures",
+    "author": [
+      {
+        "family": "Chiche",
+        "given": "Laurent"
+      },
+      {
+        "family": "Jourde-Chiche",
+        "given": "Noémie"
+      },
+      {
+        "family": "Whalen",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Presnell",
+        "given": "Scott"
+      },
+      {
+        "family": "Gersuk",
+        "given": "Vivian"
+      },
+      {
+        "family": "Dang",
+        "given": "Kristen"
+      },
+      {
+        "family": "Anguiano",
+        "given": "Esperanza"
+      },
+      {
+        "family": "Quinn",
+        "given": "Charlie"
+      },
+      {
+        "family": "Burtey",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Berland",
+        "given": "Yvon"
+      },
+      {
+        "family": "Kaplanski",
+        "given": "Gilles"
+      },
+      {
+        "family": "Harle",
+        "given": "Jean-Robert"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      },
+      {
+        "family": "Chaussabel",
+        "given": "Damien"
+      }
+    ],
+    "container-title": "Arthritis & rheumatology (Hoboken, N.J.)",
+    "container-title-short": "Arthritis Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "volume": "66",
+    "issue": "6",
+    "page": "1583-1595",
+    "note": "PMID: 24644022",
+    "URL": "https://doi.org/10.1002/art.38628",
+    "language": "en",
+    "DOI": "10.1002/art.38628"
+  },
+  {
+    "id": 14,
+    "type": "article-journal",
+    "title": "Personalized Immunomonitoring Uncovers Molecular Networks that Stratify Lupus Patients",
+    "author": [
+      {
+        "family": "Banchereau",
+        "given": "Romain"
+      },
+      {
+        "family": "Hong",
+        "given": "Seunghee"
+      },
+      {
+        "family": "Cantarel",
+        "given": "Brandi"
+      },
+      {
+        "family": "Baldwin",
+        "given": "Nicole"
+      },
+      {
+        "family": "Baisch",
+        "given": "Jeanine"
+      },
+      {
+        "family": "Edens",
+        "given": "Michelle"
+      },
+      {
+        "family": "Cepika",
+        "given": "Alma-Martina"
+      },
+      {
+        "family": "Acs",
+        "given": "Peter"
+      },
+      {
+        "family": "Turner",
+        "given": "Jacob"
+      },
+      {
+        "family": "Anguiano",
+        "given": "Esperanza"
+      },
+      {
+        "family": "Vinod",
+        "given": "Parvathi"
+      },
+      {
+        "family": "Kahn",
+        "given": "Shaheen"
+      },
+      {
+        "family": "Obermoser",
+        "given": "Gerlinde"
+      },
+      {
+        "family": "Blankenship",
+        "given": "Derek"
+      },
+      {
+        "family": "Wakeland",
+        "given": "Edward"
+      },
+      {
+        "family": "Nassi",
+        "given": "Lorien"
+      },
+      {
+        "family": "Gotte",
+        "given": "Alisa"
+      },
+      {
+        "family": "Punaro",
+        "given": "Marilynn"
+      },
+      {
+        "family": "Liu",
+        "given": "Yong-Jun"
+      },
+      {
+        "family": "Banchereau",
+        "given": "Jacques"
+      },
+      {
+        "family": "Rossello-Urgell",
+        "given": "Jose"
+      },
+      {
+        "family": "Wright",
+        "given": "Tracey"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      }
+    ],
+    "container-title": "Cell",
+    "container-title-short": "Cell",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "165",
+    "issue": "3",
+    "page": "551-565",
+    "note": "PMID: 27040498",
+    "URL": "https://doi.org/10.1016/j.cell.2016.03.008",
+    "language": "en",
+    "DOI": "10.1016/j.cell.2016.03.008"
+  },
+  {
+    "id": 15,
+    "type": "article-journal",
+    "title": "Mapping systemic lupus erythematosus heterogeneity at the single-cell level",
+    "author": [
+      {
+        "family": "Nehar-Belaid",
+        "given": "Djamel"
+      },
+      {
+        "family": "Hong",
+        "given": "Seunghee"
+      },
+      {
+        "family": "Marches",
+        "given": "Radu"
+      },
+      {
+        "family": "Chen",
+        "given": "Guo"
+      },
+      {
+        "family": "Bolisetty",
+        "given": "Mohan"
+      },
+      {
+        "family": "Baisch",
+        "given": "Jeanine"
+      },
+      {
+        "family": "Walters",
+        "given": "Lynnette"
+      },
+      {
+        "family": "Punaro",
+        "given": "Marilynn"
+      },
+      {
+        "family": "Rossi",
+        "given": "Robert J"
+      },
+      {
+        "family": "Chung",
+        "given": "Cheng-Han"
+      },
+      {
+        "family": "Huynh",
+        "given": "Richie P"
+      },
+      {
+        "family": "Singh",
+        "given": "Prashant"
+      },
+      {
+        "family": "Flynn",
+        "given": "William F"
+      },
+      {
+        "family": "Tabanor-Gayle",
+        "given": "Joy-Ann"
+      },
+      {
+        "family": "Kuchipudi",
+        "given": "Navya"
+      },
+      {
+        "family": "Mejias",
+        "given": "Asuncion"
+      },
+      {
+        "family": "Collet",
+        "given": "Magalie A"
+      },
+      {
+        "family": "Lucido",
+        "given": "Anna Lisa"
+      },
+      {
+        "family": "Palucka",
+        "given": "Karolina"
+      },
+      {
+        "family": "Robson",
+        "given": "Paul"
+      },
+      {
+        "family": "Lakshminarayanan",
+        "given": "Santhanam"
+      },
+      {
+        "family": "Ramilo",
+        "given": "Octavio"
+      },
+      {
+        "family": "Wright",
+        "given": "Tracey"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      },
+      {
+        "family": "Banchereau",
+        "given": "Jacques F"
+      }
+    ],
+    "container-title": "Nature immunology",
+    "container-title-short": "Nat Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "volume": "21",
+    "issue": "9",
+    "page": "1094-1106",
+    "note": "PMID: 32747814",
+    "URL": "https://doi.org/10.1038/s41590-020-0743-0",
+    "language": "en",
+    "DOI": "10.1038/s41590-020-0743-0"
+  },
+  {
+    "id": 16,
+    "type": "article-journal",
+    "title": "Gene Expression and Pharmacodynamic Changes in 1,760 Systemic Lupus Erythematosus Patients From Two Phase III Trials of BAFF Blockade With Tabalumab",
+    "author": [
+      {
+        "family": "Hoffman",
+        "given": "Robert W"
+      },
+      {
+        "family": "Merrill",
+        "given": "Joan T"
+      },
+      {
+        "family": "Alarcón-Riquelme",
+        "given": "Marta M E"
+      },
+      {
+        "family": "Petri",
+        "given": "Michelle"
+      },
+      {
+        "family": "Dow",
+        "given": "Ernst R"
+      },
+      {
+        "family": "Nantz",
+        "given": "Eric"
+      },
+      {
+        "family": "Nisenbaum",
+        "given": "Laura K"
+      },
+      {
+        "family": "Schroeder",
+        "given": "Krista M"
+      },
+      {
+        "family": "Komocsar",
+        "given": "Wendy J"
+      },
+      {
+        "family": "Perumal",
+        "given": "Narayanan B"
+      },
+      {
+        "family": "Linnik",
+        "given": "Matthew D"
+      },
+      {
+        "family": "Airey",
+        "given": "David C"
+      },
+      {
+        "family": "Liu",
+        "given": "Yushi"
+      },
+      {
+        "family": "Rocha",
+        "given": "Guilherme V"
+      },
+      {
+        "family": "Higgs",
+        "given": "Richard E"
+      }
+    ],
+    "container-title": "Arthritis & rheumatology (Hoboken, N.J.)",
+    "container-title-short": "Arthritis Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "volume": "69",
+    "issue": "3",
+    "page": "643-654",
+    "note": "PMID: 27723281",
+    "URL": "https://doi.org/10.1002/art.39950",
+    "language": "en",
+    "DOI": "10.1002/art.39950"
+  },
+  {
+    "id": 17,
+    "type": "article-journal",
+    "title": "Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Mackensen",
+        "given": "Andreas"
+      },
+      {
+        "family": "Müller",
+        "given": "Fabian"
+      },
+      {
+        "family": "Mougiakakos",
+        "given": "Dimitrios"
+      },
+      {
+        "family": "Böltz",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Wilhelm",
+        "given": "Artur"
+      },
+      {
+        "family": "Aigner",
+        "given": "Michael"
+      },
+      {
+        "family": "Völkl",
+        "given": "Simon"
+      },
+      {
+        "family": "Simon",
+        "given": "David"
+      },
+      {
+        "family": "Kleyer",
+        "given": "Arnd"
+      },
+      {
+        "family": "Munoz",
+        "given": "Luis"
+      },
+      {
+        "family": "Kretschmann",
+        "given": "Sascha"
+      },
+      {
+        "family": "Kharboutli",
+        "given": "Soraya"
+      },
+      {
+        "family": "Gary",
+        "given": "Regina"
+      },
+      {
+        "family": "Reimann",
+        "given": "Hannah"
+      },
+      {
+        "family": "Rösler",
+        "given": "Wolf"
+      },
+      {
+        "family": "Uderhardt",
+        "given": "Stefan"
+      },
+      {
+        "family": "Bang",
+        "given": "Holger"
+      },
+      {
+        "family": "Herrmann",
+        "given": "Martin"
+      },
+      {
+        "family": "Ekici",
+        "given": "Arif Bülent"
+      },
+      {
+        "family": "Buettner",
+        "given": "Christian"
+      },
+      {
+        "family": "Habenicht",
+        "given": "Katharina Marie"
+      },
+      {
+        "family": "Winkler",
+        "given": "Thomas H"
+      },
+      {
+        "family": "Krönke",
+        "given": "Gerhard"
+      },
+      {
+        "family": "Schett",
+        "given": "Georg"
+      }
+    ],
+    "container-title": "Nature medicine",
+    "container-title-short": "Nat Med",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "volume": "28",
+    "issue": "10",
+    "page": "2124-2132",
+    "note": "PMID: 36109639",
+    "URL": "https://doi.org/10.1038/s41591-022-02017-5",
+    "language": "en",
+    "DOI": "10.1038/s41591-022-02017-5"
+  },
+  {
+    "id": 18,
+    "type": "article-journal",
+    "title": "CD19 CAR T-Cell Therapy in Autoimmune Disease - A Case Series with Follow-up",
+    "author": [
+      {
+        "family": "Müller",
+        "given": "Fabian"
+      },
+      {
+        "family": "Taubmann",
+        "given": "Jule"
+      },
+      {
+        "family": "Bucci",
+        "given": "Laura"
+      },
+      {
+        "family": "Wilhelm",
+        "given": "Artur"
+      },
+      {
+        "family": "Bergmann",
+        "given": "Christina"
+      },
+      {
+        "family": "Völkl",
+        "given": "Simon"
+      },
+      {
+        "family": "Aigner",
+        "given": "Michael"
+      },
+      {
+        "family": "Rothe",
+        "given": "Tobias"
+      },
+      {
+        "family": "Minopoulou",
+        "given": "Ioanna"
+      },
+      {
+        "family": "Tur",
+        "given": "Carlo"
+      },
+      {
+        "family": "Knitza",
+        "given": "Johannes"
+      },
+      {
+        "family": "Kharboutli",
+        "given": "Soraya"
+      },
+      {
+        "family": "Kretschmann",
+        "given": "Sascha"
+      },
+      {
+        "family": "Vasova",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Spoerl",
+        "given": "Silvia"
+      },
+      {
+        "family": "Reimann",
+        "given": "Hannah"
+      },
+      {
+        "family": "Munoz",
+        "given": "Luis"
+      },
+      {
+        "family": "Gerlach",
+        "given": "Roman G"
+      },
+      {
+        "family": "Schäfer",
+        "given": "Simon"
+      },
+      {
+        "family": "Grieshaber-Bouyer",
+        "given": "Ricardo"
+      },
+      {
+        "family": "Korganow",
+        "given": "Anne-Sophie"
+      },
+      {
+        "family": "Farge-Bancel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Mougiakakos",
+        "given": "Dimitrios"
+      },
+      {
+        "family": "Bozec",
+        "given": "Aline"
+      },
+      {
+        "family": "Winkler",
+        "given": "Thomas"
+      },
+      {
+        "family": "Krönke",
+        "given": "Gerhard"
+      },
+      {
+        "family": "Mackensen",
+        "given": "Andreas"
+      },
+      {
+        "family": "Schett",
+        "given": "Georg"
+      }
+    ],
+    "container-title": "The New England journal of medicine",
+    "container-title-short": "N Engl J Med",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "volume": "390",
+    "issue": "8",
+    "page": "687-700",
+    "note": "PMID: 38381673",
+    "URL": "https://doi.org/10.1056/nejmoa2308917",
+    "language": "en",
+    "DOI": "10.1056/nejmoa2308917"
+  },
+  {
+    "id": 19,
+    "type": "article-journal",
+    "title": "A bispecific CD3×CD19 antibody for systemic lupus erythematosus: a phase 1 trial",
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Jason"
+      },
+      {
+        "family": "Mei",
+        "given": "Chunli"
+      },
+      {
+        "family": "Guan",
+        "given": "Xin"
+      },
+      {
+        "family": "Du",
+        "given": "Rong"
+      },
+      {
+        "family": "Wu",
+        "given": "Bin"
+      },
+      {
+        "family": "Wu",
+        "given": "Di"
+      },
+      {
+        "family": "Li",
+        "given": "Mengjiao"
+      },
+      {
+        "family": "Li",
+        "given": "Jingna"
+      },
+      {
+        "family": "Song",
+        "given": "You"
+      },
+      {
+        "family": "Su",
+        "given": "Hua"
+      },
+      {
+        "family": "Chen",
+        "given": "Xiaoqi"
+      },
+      {
+        "family": "Guo",
+        "given": "Qianyu"
+      },
+      {
+        "family": "Chen",
+        "given": "Hanyang"
+      },
+      {
+        "family": "Sussman",
+        "given": "Jonathan H"
+      },
+      {
+        "family": "Chen",
+        "given": "Gregory M"
+      },
+      {
+        "family": "Bandyopadhyay",
+        "given": "Shovik"
+      },
+      {
+        "family": "Pillai",
+        "given": "Vinodh"
+      },
+      {
+        "family": "Lanz",
+        "given": "Tobias V"
+      },
+      {
+        "family": "Liedtke",
+        "given": "Michaela"
+      },
+      {
+        "family": "Onel",
+        "given": "Kenan"
+      },
+      {
+        "family": "Katsumoto",
+        "given": "Tamiko R"
+      },
+      {
+        "family": "Tan",
+        "given": "Kai"
+      },
+      {
+        "family": "Yan",
+        "given": "Xiaoqiang"
+      },
+      {
+        "family": "Chien",
+        "given": "May"
+      },
+      {
+        "family": "Salmasi",
+        "given": "Giselle"
+      },
+      {
+        "family": "Kerschbaumer",
+        "given": "Andreas"
+      },
+      {
+        "family": "Teachey",
+        "given": "David T"
+      },
+      {
+        "family": "Meffre",
+        "given": "Eric"
+      },
+      {
+        "family": "Kennedy",
+        "given": "Vanessa E"
+      },
+      {
+        "family": "Robinson",
+        "given": "William H"
+      },
+      {
+        "family": "Huang",
+        "given": "Anbin"
+      },
+      {
+        "family": "Baker",
+        "given": "Matthew C"
+      },
+      {
+        "family": "Li",
+        "given": "Qiubai"
+      }
+    ],
+    "container-title": "Nature medicine",
+    "container-title-short": "Nat Med",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "32",
+    "issue": "9",
+    "page": "3372-3384",
+    "note": "PMID: 42722888",
+    "URL": "https://doi.org/10.1038/s41591-026-04572-7",
+    "language": "en",
+    "DOI": "10.1038/s41591-026-04572-7"
+  },
+  {
+    "id": 20,
+    "type": "article-journal",
+    "title": "Association between changes in gene signatures expression and disease activity among patients with systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Petri",
+        "given": "Michelle"
+      },
+      {
+        "family": "Fu",
+        "given": "Wei"
+      },
+      {
+        "family": "Ranger",
+        "given": "Ann"
+      },
+      {
+        "family": "Allaire",
+        "given": "Norm"
+      },
+      {
+        "family": "Cullen",
+        "given": "Patrick"
+      },
+      {
+        "family": "Magder",
+        "given": "Laurence S"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuji"
+      }
+    ],
+    "container-title": "BMC medical genomics",
+    "container-title-short": "BMC Med Genomics",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "12",
+    "issue": "1",
+    "page": "4",
+    "note": "PMID: 30626389",
+    "URL": "https://doi.org/10.1186/s12920-018-0468-1",
+    "language": "en",
+    "DOI": "10.1186/s12920-018-0468-1"
+  },
+  {
+    "id": 21,
+    "type": "article-journal",
+    "title": "Stratification of Systemic Lupus Erythematosus Patients Into Three Groups of Disease Activity Progression According to Longitudinal Gene Expression",
+    "author": [
+      {
+        "family": "Toro-Domínguez",
+        "given": "Daniel"
+      },
+      {
+        "family": "Martorell-Marugán",
+        "given": "Jordi"
+      },
+      {
+        "family": "Goldman",
+        "given": "Daniel"
+      },
+      {
+        "family": "Petri",
+        "given": "Michelle"
+      },
+      {
+        "family": "Carmona-Sáez",
+        "given": "Pedro"
+      },
+      {
+        "family": "Alarcón-Riquelme",
+        "given": "Marta E"
+      }
+    ],
+    "container-title": "Arthritis & rheumatology (Hoboken, N.J.)",
+    "container-title-short": "Arthritis Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "volume": "70",
+    "issue": "12",
+    "page": "2025-2035",
+    "note": "PMID: 29938934",
+    "URL": "https://doi.org/10.1002/art.40653",
+    "language": "en",
+    "DOI": "10.1002/art.40653"
+  },
+  {
+    "id": 22,
+    "type": "article-journal",
+    "title": "Cross-species transcriptional network analysis defines shared inflammatory responses in murine and human lupus nephritis",
+    "author": [
+      {
+        "family": "Berthier",
+        "given": "Celine C"
+      },
+      {
+        "family": "Bethunaickan",
+        "given": "Ramalingam"
+      },
+      {
+        "family": "Gonzalez-Rivera",
+        "given": "Tania"
+      },
+      {
+        "family": "Nair",
+        "given": "Viji"
+      },
+      {
+        "family": "Ramanujam",
+        "given": "Meera"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weijia"
+      },
+      {
+        "family": "Bottinger",
+        "given": "Erwin P"
+      },
+      {
+        "family": "Segerer",
+        "given": "Stephan"
+      },
+      {
+        "family": "Lindenmeyer",
+        "given": "Maja"
+      },
+      {
+        "family": "Cohen",
+        "given": "Clemens D"
+      },
+      {
+        "family": "Davidson",
+        "given": "Anne"
+      },
+      {
+        "family": "Kretzler",
+        "given": "Matthias"
+      }
+    ],
+    "container-title": "Journal of immunology (Baltimore, Md. : 1950)",
+    "container-title-short": "J Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "volume": "189",
+    "issue": "2",
+    "page": "988-1001",
+    "note": "PMID: 22723521",
+    "URL": "https://doi.org/10.4049/jimmunol.1103031",
+    "language": "en",
+    "DOI": "10.4049/jimmunol.1103031"
+  },
+  {
+    "id": 23,
+    "type": "article-journal",
+    "title": "Interferon α kinoid induces neutralizing anti-interferon α antibodies that decrease the expression of interferon-induced and B cell activation associated transcripts: analysis of extended follow-up data from the interferon α kinoid phase I/II study",
+    "author": [
+      {
+        "family": "Ducreux",
+        "given": "Julie"
+      },
+      {
+        "family": "Houssiau",
+        "given": "Frédéric A"
+      },
+      {
+        "family": "Vandepapelière",
+        "given": "Pierre"
+      },
+      {
+        "family": "Jorgensen",
+        "given": "Christian"
+      },
+      {
+        "family": "Lazaro",
+        "given": "Estibaliz"
+      },
+      {
+        "family": "Spertini",
+        "given": "François"
+      },
+      {
+        "family": "Colaone",
+        "given": "Fabien"
+      },
+      {
+        "family": "Roucairol",
+        "given": "Camille"
+      },
+      {
+        "family": "Laborie",
+        "given": "Marion"
+      },
+      {
+        "family": "Croughs",
+        "given": "Thérèse"
+      },
+      {
+        "family": "Grouard-Vogel",
+        "given": "Géraldine"
+      },
+      {
+        "family": "Lauwerys",
+        "given": "Bernard R"
+      }
+    ],
+    "container-title": "Rheumatology (Oxford, England)",
+    "container-title-short": "Rheumatology (Oxford)",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "55",
+    "issue": "10",
+    "page": "1901-1905",
+    "note": "PMID: 27354683",
+    "URL": "https://doi.org/10.1093/rheumatology/kew262",
+    "language": "en",
+    "DOI": "10.1093/rheumatology/kew262"
+  },
+  {
+    "id": 24,
+    "type": "article-journal",
+    "title": "Molecular profiling of kidney compartments from serial biopsies differentiate treatment responders from non-responders in lupus nephritis",
+    "author": [
+      {
+        "family": "Parikh",
+        "given": "Samir V"
+      },
+      {
+        "family": "Malvar",
+        "given": "Ana"
+      },
+      {
+        "family": "Song",
+        "given": "Huijuan"
+      },
+      {
+        "family": "Shapiro",
+        "given": "John"
+      },
+      {
+        "family": "Mejia-Vilet",
+        "given": "Juan Manuel"
+      },
+      {
+        "family": "Ayoub",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Almaani",
+        "given": "Salem"
+      },
+      {
+        "family": "Madhavan",
+        "given": "Sethu"
+      },
+      {
+        "family": "Alberton",
+        "given": "Valeria"
+      },
+      {
+        "family": "Besso",
+        "given": "Celeste"
+      },
+      {
+        "family": "Lococo",
+        "given": "Bruno"
+      },
+      {
+        "family": "Satoskar",
+        "given": "Anjali"
+      },
+      {
+        "family": "Zhang",
+        "given": "Jianying"
+      },
+      {
+        "family": "Yu",
+        "given": "Lianbo"
+      },
+      {
+        "family": "Fadda",
+        "given": "Paolo"
+      },
+      {
+        "family": "Eadon",
+        "given": "Michael"
+      },
+      {
+        "family": "Birmingham",
+        "given": "Dan"
+      },
+      {
+        "family": "Ganesan",
+        "given": "Latha P"
+      },
+      {
+        "family": "Jarjour",
+        "given": "Wael"
+      },
+      {
+        "family": "Rovin",
+        "given": "Brad H"
+      }
+    ],
+    "container-title": "Kidney international",
+    "container-title-short": "Kidney Int",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "volume": "102",
+    "issue": "4",
+    "page": "845-865",
+    "note": "PMID: 35788359",
+    "URL": "https://doi.org/10.1016/j.kint.2022.05.033",
+    "language": "en",
+    "DOI": "10.1016/j.kint.2022.05.033"
+  },
+  {
+    "id": 25,
+    "type": "article-journal",
+    "title": "A general approach to causal mediation analysis",
+    "author": [
+      {
+        "family": "Imai",
+        "given": "Kosuke"
+      },
+      {
+        "family": "Keele",
+        "given": "Luke"
+      },
+      {
+        "family": "Tingley",
+        "given": "Dustin"
+      }
+    ],
+    "container-title": "Psychological methods",
+    "container-title-short": "Psychol Methods",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "volume": "15",
+    "issue": "4",
+    "page": "309-334",
+    "note": "PMID: 20954780",
+    "URL": "https://doi.org/10.1037/a0020761",
+    "language": "en",
+    "DOI": "10.1037/a0020761"
+  },
+  {
+    "id": 26,
+    "type": "article-journal",
+    "title": "EULAR recommendations for the management of systemic lupus erythematosus. Report of a Task Force of the EULAR Standing Committee for International Clinical Studies Including Therapeutics",
+    "author": [
+      {
+        "family": "Bertsias",
+        "given": "G"
+      },
+      {
+        "family": "Ioannidis",
+        "given": "J P A"
+      },
+      {
+        "family": "Boletis",
+        "given": "J"
+      },
+      {
+        "family": "Bombardieri",
+        "given": "S"
+      },
+      {
+        "family": "Cervera",
+        "given": "R"
+      },
+      {
+        "family": "Dostal",
+        "given": "C"
+      },
+      {
+        "family": "Font",
+        "given": "J"
+      },
+      {
+        "family": "Gilboe",
+        "given": "I M"
+      },
+      {
+        "family": "Houssiau",
+        "given": "F"
+      },
+      {
+        "family": "Huizinga",
+        "given": "T"
+      },
+      {
+        "family": "Isenberg",
+        "given": "D"
+      },
+      {
+        "family": "Kallenberg",
+        "given": "C G M"
+      },
+      {
+        "family": "Khamashta",
+        "given": "M"
+      },
+      {
+        "family": "Piette",
+        "given": "J C"
+      },
+      {
+        "family": "Schneider",
+        "given": "M"
+      },
+      {
+        "family": "Smolen",
+        "given": "J"
+      },
+      {
+        "family": "Sturfelt",
+        "given": "G"
+      },
+      {
+        "family": "Tincani",
+        "given": "A"
+      },
+      {
+        "family": "van Vollenhoven",
+        "given": "R"
+      },
+      {
+        "family": "Gordon",
+        "given": "C"
+      },
+      {
+        "family": "Boumpas",
+        "given": "D T"
+      },
+      {
+        "literal": "Task Force of the EULAR Standing Committee for International Clinical Studies Including Therapeutics"
+      }
+    ],
+    "container-title": "Annals of the rheumatic diseases",
+    "container-title-short": "Ann Rheum Dis",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "volume": "67",
+    "issue": "2",
+    "page": "195-205",
+    "note": "PMID: 17504841",
+    "URL": "https://doi.org/10.1136/ard.2007.070367",
+    "language": "en",
+    "DOI": "10.1136/ard.2007.070367"
+  },
+  {
+    "id": 27,
+    "type": "article-journal",
+    "title": "2019 update of the EULAR recommendations for the management of systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Fanouriakis",
+        "given": "Antonis"
+      },
+      {
+        "family": "Kostopoulou",
+        "given": "Myrto"
+      },
+      {
+        "family": "Alunno",
+        "given": "Alessia"
+      },
+      {
+        "family": "Aringer",
+        "given": "Martin"
+      },
+      {
+        "family": "Bajema",
+        "given": "Ingeborg"
+      },
+      {
+        "family": "Boletis",
+        "given": "John N"
+      },
+      {
+        "family": "Cervera",
+        "given": "Ricard"
+      },
+      {
+        "family": "Doria",
+        "given": "Andrea"
+      },
+      {
+        "family": "Gordon",
+        "given": "Caroline"
+      },
+      {
+        "family": "Govoni",
+        "given": "Marcello"
+      },
+      {
+        "family": "Houssiau",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Jayne",
+        "given": "David"
+      },
+      {
+        "family": "Kouloumas",
+        "given": "Marios"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Annegret"
+      },
+      {
+        "family": "Larsen",
+        "given": "Janni L"
+      },
+      {
+        "family": "Lerstrøm",
+        "given": "Kirsten"
+      },
+      {
+        "family": "Moroni",
+        "given": "Gabriella"
+      },
+      {
+        "family": "Mosca",
+        "given": "Marta"
+      },
+      {
+        "family": "Schneider",
+        "given": "Matthias"
+      },
+      {
+        "family": "Smolen",
+        "given": "Josef S"
+      },
+      {
+        "family": "Svenungsson",
+        "given": "Elisabet"
+      },
+      {
+        "family": "Tesar",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Tincani",
+        "given": "Angela"
+      },
+      {
+        "family": "Troldborg",
+        "given": "Anne"
+      },
+      {
+        "family": "van Vollenhoven",
+        "given": "Ronald"
+      },
+      {
+        "family": "Wenzel",
+        "given": "Jörg"
+      },
+      {
+        "family": "Bertsias",
+        "given": "George"
+      },
+      {
+        "family": "Boumpas",
+        "given": "Dimitrios T"
+      }
+    ],
+    "container-title": "Annals of the rheumatic diseases",
+    "container-title-short": "Ann Rheum Dis",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "78",
+    "issue": "6",
+    "page": "736-745",
+    "note": "PMID: 30926722",
+    "URL": "https://doi.org/10.1136/annrheumdis-2019-215089",
+    "language": "en",
+    "DOI": "10.1136/annrheumdis-2019-215089"
+  },
+  {
+    "id": 28,
+    "type": "article-journal",
+    "title": "EULAR recommendations for the management of systemic lupus erythematosus: 2023 update",
+    "author": [
+      {
+        "family": "Fanouriakis",
+        "given": "Antonis"
+      },
+      {
+        "family": "Kostopoulou",
+        "given": "Myrto"
+      },
+      {
+        "family": "Andersen",
+        "given": "Jeanette"
+      },
+      {
+        "family": "Aringer",
+        "given": "Martin"
+      },
+      {
+        "family": "Arnaud",
+        "given": "Laurent"
+      },
+      {
+        "family": "Bae",
+        "given": "Sang-Cheol"
+      },
+      {
+        "family": "Boletis",
+        "given": "John"
+      },
+      {
+        "family": "Bruce",
+        "given": "Ian N"
+      },
+      {
+        "family": "Cervera",
+        "given": "Ricard"
+      },
+      {
+        "family": "Doria",
+        "given": "Andrea"
+      },
+      {
+        "family": "Dörner",
+        "given": "Thomas"
+      },
+      {
+        "family": "Furie",
+        "given": "Richard A"
+      },
+      {
+        "family": "Gladman",
+        "given": "Dafna D"
+      },
+      {
+        "family": "Houssiau",
+        "given": "Frederic A"
+      },
+      {
+        "family": "Inês",
+        "given": "Luís Sousa"
+      },
+      {
+        "family": "Jayne",
+        "given": "David"
+      },
+      {
+        "family": "Kouloumas",
+        "given": "Marios"
+      },
+      {
+        "family": "Kovács",
+        "given": "László"
+      },
+      {
+        "family": "Mok",
+        "given": "Chi Chiu"
+      },
+      {
+        "family": "Morand",
+        "given": "Eric F"
+      },
+      {
+        "family": "Moroni",
+        "given": "Gabriella"
+      },
+      {
+        "family": "Mosca",
+        "given": "Marta"
+      },
+      {
+        "family": "Mucke",
+        "given": "Johanna"
+      },
+      {
+        "family": "Mukhtyar",
+        "given": "Chetan B"
+      },
+      {
+        "family": "Nagy",
+        "given": "György"
+      },
+      {
+        "family": "Navarra",
+        "given": "Sandra"
+      },
+      {
+        "family": "Parodis",
+        "given": "Ioannis"
+      },
+      {
+        "family": "Pego-Reigosa",
+        "given": "José M"
+      },
+      {
+        "family": "Petri",
+        "given": "Michelle"
+      },
+      {
+        "family": "Pons-Estel",
+        "given": "Bernardo A"
+      },
+      {
+        "family": "Schneider",
+        "given": "Matthias"
+      },
+      {
+        "family": "Smolen",
+        "given": "Josef S"
+      },
+      {
+        "family": "Svenungsson",
+        "given": "Elisabet"
+      },
+      {
+        "family": "Tanaka",
+        "given": "Yoshiya"
+      },
+      {
+        "family": "Tektonidou",
+        "given": "Maria G"
+      },
+      {
+        "family": "Teng",
+        "given": "Yk Onno"
+      },
+      {
+        "family": "Tincani",
+        "given": "Angela"
+      },
+      {
+        "family": "Vital",
+        "given": "Edward M"
+      },
+      {
+        "family": "van Vollenhoven",
+        "given": "Ronald F"
+      },
+      {
+        "family": "Wincup",
+        "given": "Chris"
+      },
+      {
+        "family": "Bertsias",
+        "given": "George"
+      },
+      {
+        "family": "Boumpas",
+        "given": "Dimitrios T"
+      }
+    ],
+    "container-title": "Annals of the rheumatic diseases",
+    "container-title-short": "Ann Rheum Dis",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "volume": "83",
+    "issue": "1",
+    "page": "15-29",
+    "note": "PMID: 37827694",
+    "URL": "https://doi.org/10.1136/ard-2023-224762",
+    "language": "en",
+    "DOI": "10.1136/ard-2023-224762"
+  },
+  {
+    "id": 29,
+    "type": "article-journal",
+    "title": "Definition and initial validation of a Lupus Low Disease Activity State (LLDAS)",
+    "author": [
+      {
+        "family": "Franklyn",
+        "given": "Kate"
+      },
+      {
+        "family": "Lau",
+        "given": "Chak Sing"
+      },
+      {
+        "family": "Navarra",
+        "given": "Sandra V"
+      },
+      {
+        "family": "Louthrenoo",
+        "given": "Worawit"
+      },
+      {
+        "family": "Lateef",
+        "given": "Aisha"
+      },
+      {
+        "family": "Hamijoyo",
+        "given": "Laniyati"
+      },
+      {
+        "family": "Wahono",
+        "given": "C Singgih"
+      },
+      {
+        "family": "Chen",
+        "given": "Shun Le"
+      },
+      {
+        "family": "Jin",
+        "given": "Ou"
+      },
+      {
+        "family": "Morton",
+        "given": "Susan"
+      },
+      {
+        "family": "Hoi",
+        "given": "Alberta"
+      },
+      {
+        "family": "Huq",
+        "given": "Molla"
+      },
+      {
+        "family": "Nikpour",
+        "given": "Mandana"
+      },
+      {
+        "family": "Morand",
+        "given": "Eric F"
+      },
+      {
+        "literal": "Asia-Pacific Lupus Collaboration"
+      }
+    ],
+    "container-title": "Annals of the rheumatic diseases",
+    "container-title-short": "Ann Rheum Dis",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "75",
+    "issue": "9",
+    "page": "1615-1621",
+    "note": "PMID: 26458737",
+    "URL": "https://doi.org/10.1136/annrheumdis-2015-207726",
+    "language": "en",
+    "DOI": "10.1136/annrheumdis-2015-207726"
+  },
+  {
+    "id": 30,
+    "type": "article-journal",
+    "title": "Type I interferon inhibitor anifrolumab in active systemic lupus erythematosus (TULIP-1): a randomised, controlled, phase 3 trial",
+    "author": [
+      {
+        "family": "Furie",
+        "given": "Richard A"
+      },
+      {
+        "family": "Morand",
+        "given": "Eric F"
+      },
+      {
+        "family": "Bruce",
+        "given": "Ian N"
+      },
+      {
+        "family": "Manzi",
+        "given": "Susan"
+      },
+      {
+        "family": "Kalunian",
+        "given": "Kenneth C"
+      },
+      {
+        "family": "Vital",
+        "given": "Edward M"
+      },
+      {
+        "family": "Lawrence Ford",
+        "given": "Theresa"
+      },
+      {
+        "family": "Gupta",
+        "given": "Ramesh"
+      },
+      {
+        "family": "Hiepe",
+        "given": "Falk"
+      },
+      {
+        "family": "Santiago",
+        "given": "Mittermayer"
+      },
+      {
+        "family": "Brohawn",
+        "given": "Philip Z"
+      },
+      {
+        "family": "Berglind",
+        "given": "Anna"
+      },
+      {
+        "family": "Tummala",
+        "given": "Raj"
+      },
+      {
+        "literal": "TULIP-1 study investigators"
+      }
+    ],
+    "container-title": "The Lancet. Rheumatology",
+    "container-title-short": "Lancet Rheumatol",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "1",
+    "issue": "4",
+    "page": "e208-e219",
+    "note": "PMID: 38229377",
+    "URL": "https://doi.org/10.1016/s2665-9913(19)30076-1",
+    "language": "en",
+    "DOI": "10.1016/s2665-9913(19)30076-1"
+  },
+  {
+    "id": 31,
+    "type": "article-journal",
+    "title": "Trial of Anifrolumab in Active Systemic Lupus Erythematosus",
+    "author": [
+      {
+        "family": "Morand",
+        "given": "Eric F"
+      },
+      {
+        "family": "Furie",
+        "given": "Richard"
+      },
+      {
+        "family": "Tanaka",
+        "given": "Yoshiya"
+      },
+      {
+        "family": "Bruce",
+        "given": "Ian N"
+      },
+      {
+        "family": "Askanase",
+        "given": "Anca D"
+      },
+      {
+        "family": "Richez",
+        "given": "Christophe"
+      },
+      {
+        "family": "Bae",
+        "given": "Sang-Cheol"
+      },
+      {
+        "family": "Brohawn",
+        "given": "Philip Z"
+      },
+      {
+        "family": "Pineda",
+        "given": "Lilia"
+      },
+      {
+        "family": "Berglind",
+        "given": "Anna"
+      },
+      {
+        "family": "Tummala",
+        "given": "Raj"
+      },
+      {
+        "literal": "TULIP-2 Trial Investigators"
+      }
+    ],
+    "container-title": "The New England journal of medicine",
+    "container-title-short": "N Engl J Med",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "volume": "382",
+    "issue": "3",
+    "page": "211-221",
+    "note": "PMID: 31851795",
+    "URL": "https://doi.org/10.1056/nejmoa1912196",
+    "language": "en",
+    "DOI": "10.1056/nejmoa1912196"
+  },
+  {
+    "id": 32,
+    "type": "article-journal",
+    "title": "A distinct subset of proinflammatory neutrophils isolated from patients with systemic lupus erythematosus induces vascular damage and synthesizes type I IFNs",
+    "author": [
+      {
+        "family": "Denny",
+        "given": "Michael F"
+      },
+      {
+        "family": "Yalavarthi",
+        "given": "Srilakshmi"
+      },
+      {
+        "family": "Zhao",
+        "given": "Wenpu"
+      },
+      {
+        "family": "Thacker",
+        "given": "Seth G"
+      },
+      {
+        "family": "Anderson",
+        "given": "Marc"
+      },
+      {
+        "family": "Sandy",
+        "given": "Ashley R"
+      },
+      {
+        "family": "McCune",
+        "given": "W Joseph"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Mariana J"
+      }
+    ],
+    "container-title": "Journal of immunology (Baltimore, Md. : 1950)",
+    "container-title-short": "J Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "volume": "184",
+    "issue": "6",
+    "page": "3284-3297",
+    "note": "PMID: 20164424",
+    "URL": "https://doi.org/10.4049/jimmunol.0902199",
+    "language": "en",
+    "DOI": "10.4049/jimmunol.0902199"
+  },
+  {
+    "id": 33,
+    "type": "article-journal",
+    "title": "Netting neutrophils induce endothelial damage, infiltrate tissues, and expose immunostimulatory molecules in systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Villanueva",
+        "given": "Eneida"
+      },
+      {
+        "family": "Yalavarthi",
+        "given": "Srilakshmi"
+      },
+      {
+        "family": "Berthier",
+        "given": "Celine C"
+      },
+      {
+        "family": "Hodgin",
+        "given": "Jeffrey B"
+      },
+      {
+        "family": "Khandpur",
+        "given": "Ritika"
+      },
+      {
+        "family": "Lin",
+        "given": "Andrew M"
+      },
+      {
+        "family": "Rubin",
+        "given": "Cory J"
+      },
+      {
+        "family": "Zhao",
+        "given": "Wenpu"
+      },
+      {
+        "family": "Olsen",
+        "given": "Stephen H"
+      },
+      {
+        "family": "Klinker",
+        "given": "Matthew"
+      },
+      {
+        "family": "Shealy",
+        "given": "David"
+      },
+      {
+        "family": "Denny",
+        "given": "Michael F"
+      },
+      {
+        "family": "Plumas",
+        "given": "Joel"
+      },
+      {
+        "family": "Chaperot",
+        "given": "Laurence"
+      },
+      {
+        "family": "Kretzler",
+        "given": "Matthias"
+      },
+      {
+        "family": "Bruce",
+        "given": "Allen T"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Mariana J"
+      }
+    ],
+    "container-title": "Journal of immunology (Baltimore, Md. : 1950)",
+    "container-title-short": "J Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "volume": "187",
+    "issue": "1",
+    "page": "538-552",
+    "note": "PMID: 21613614",
+    "URL": "https://doi.org/10.4049/jimmunol.1100450",
+    "language": "en",
+    "DOI": "10.4049/jimmunol.1100450"
+  },
+  {
+    "id": 34,
+    "type": "article-journal",
+    "title": "Netting neutrophils are major inducers of type I IFN production in pediatric systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Garcia-Romo",
+        "given": "Gina S"
+      },
+      {
+        "family": "Caielli",
+        "given": "Simone"
+      },
+      {
+        "family": "Vega",
+        "given": "Barbara"
+      },
+      {
+        "family": "Connolly",
+        "given": "John"
+      },
+      {
+        "family": "Allantaz",
+        "given": "Florence"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhaohui"
+      },
+      {
+        "family": "Punaro",
+        "given": "Marilynn"
+      },
+      {
+        "family": "Baisch",
+        "given": "Jeanine"
+      },
+      {
+        "family": "Guiducci",
+        "given": "Cristiana"
+      },
+      {
+        "family": "Coffman",
+        "given": "Robert L"
+      },
+      {
+        "family": "Barrat",
+        "given": "Franck J"
+      },
+      {
+        "family": "Banchereau",
+        "given": "Jacques"
+      },
+      {
+        "family": "Pascual",
+        "given": "Virginia"
+      }
+    ],
+    "container-title": "Science translational medicine",
+    "container-title-short": "Sci Transl Med",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "volume": "3",
+    "issue": "73",
+    "page": "73ra20",
+    "note": "PMID: 21389264",
+    "URL": "https://doi.org/10.1126/scitranslmed.3001201",
+    "language": "en",
+    "DOI": "10.1126/scitranslmed.3001201"
+  },
+  {
+    "id": 35,
+    "type": "article-journal",
+    "title": "Neutrophils activate plasmacytoid dendritic cells by releasing self-DNA-peptide complexes in systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Lande",
+        "given": "Roberto"
+      },
+      {
+        "family": "Ganguly",
+        "given": "Dipyaman"
+      },
+      {
+        "family": "Facchinetti",
+        "given": "Valeria"
+      },
+      {
+        "family": "Frasca",
+        "given": "Loredana"
+      },
+      {
+        "family": "Conrad",
+        "given": "Curdin"
+      },
+      {
+        "family": "Gregorio",
+        "given": "Josh"
+      },
+      {
+        "family": "Meller",
+        "given": "Stephan"
+      },
+      {
+        "family": "Chamilos",
+        "given": "Georgios"
+      },
+      {
+        "family": "Sebasigari",
+        "given": "Rosalie"
+      },
+      {
+        "family": "Riccieri",
+        "given": "Valeria"
+      },
+      {
+        "family": "Bassett",
+        "given": "Roland"
+      },
+      {
+        "family": "Amuro",
+        "given": "Hideki"
+      },
+      {
+        "family": "Fukuhara",
+        "given": "Shirou"
+      },
+      {
+        "family": "Ito",
+        "given": "Tomoki"
+      },
+      {
+        "family": "Liu",
+        "given": "Yong-Jun"
+      },
+      {
+        "family": "Gilliet",
+        "given": "Michel"
+      }
+    ],
+    "container-title": "Science translational medicine",
+    "container-title-short": "Sci Transl Med",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "volume": "3",
+    "issue": "73",
+    "page": "73ra19",
+    "note": "PMID: 21389263",
+    "URL": "https://doi.org/10.1126/scitranslmed.3001180",
+    "language": "en",
+    "DOI": "10.1126/scitranslmed.3001180"
+  },
+  {
+    "id": 36,
+    "type": "article-journal",
+    "title": "Impairment of neutrophil extracellular trap degradation is associated with lupus nephritis",
+    "author": [
+      {
+        "family": "Hakkim",
+        "given": "Abdul"
+      },
+      {
+        "family": "Fürnrohr",
+        "given": "Barbara G"
+      },
+      {
+        "family": "Amann",
+        "given": "Kerstin"
+      },
+      {
+        "family": "Laube",
+        "given": "Britta"
+      },
+      {
+        "family": "Abed",
+        "given": "Ulrike Abu"
+      },
+      {
+        "family": "Brinkmann",
+        "given": "Volker"
+      },
+      {
+        "family": "Herrmann",
+        "given": "Martin"
+      },
+      {
+        "family": "Voll",
+        "given": "Reinhard E"
+      },
+      {
+        "family": "Zychlinsky",
+        "given": "Arturo"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc Natl Acad Sci U S A",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "volume": "107",
+    "issue": "21",
+    "page": "9813-9818",
+    "note": "PMID: 20439745",
+    "URL": "https://doi.org/10.1073/pnas.0909927107",
+    "language": "en",
+    "DOI": "10.1073/pnas.0909927107"
+  },
+  {
+    "id": 37,
+    "type": "article-journal",
+    "title": "Neutrophil extracellular traps enriched in oxidized mitochondrial DNA are interferogenic and contribute to lupus-like disease",
+    "author": [
+      {
+        "family": "Lood",
+        "given": "Christian"
+      },
+      {
+        "family": "Blanco",
+        "given": "Luz P"
+      },
+      {
+        "family": "Purmalek",
+        "given": "Monica M"
+      },
+      {
+        "family": "Carmona-Rivera",
+        "given": "Carmelo"
+      },
+      {
+        "family": "De Ravin",
+        "given": "Suk S"
+      },
+      {
+        "family": "Smith",
+        "given": "Carolyne K"
+      },
+      {
+        "family": "Malech",
+        "given": "Harry L"
+      },
+      {
+        "family": "Ledbetter",
+        "given": "Jeffrey A"
+      },
+      {
+        "family": "Elkon",
+        "given": "Keith B"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Mariana J"
+      }
+    ],
+    "container-title": "Nature medicine",
+    "container-title-short": "Nat Med",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "volume": "22",
+    "issue": "2",
+    "page": "146-153",
+    "note": "PMID: 26779811",
+    "URL": "https://doi.org/10.1038/nm.4027",
+    "language": "en",
+    "DOI": "10.1038/nm.4027"
+  },
+  {
+    "id": 38,
+    "type": "article-journal",
+    "title": "Transcriptomic, epigenetic, and functional analyses implicate neutrophil diversity in the pathogenesis of systemic lupus erythematosus",
+    "author": [
+      {
+        "family": "Mistry",
+        "given": "Pragnesh"
+      },
+      {
+        "family": "Nakabo",
+        "given": "Shuichiro"
+      },
+      {
+        "family": "O'Neil",
+        "given": "Liam"
+      },
+      {
+        "family": "Goel",
+        "given": "Rishi R"
+      },
+      {
+        "family": "Jiang",
+        "given": "Kan"
+      },
+      {
+        "family": "Carmona-Rivera",
+        "given": "Carmelo"
+      },
+      {
+        "family": "Gupta",
+        "given": "Sarthak"
+      },
+      {
+        "family": "Chan",
+        "given": "Diana W"
+      },
+      {
+        "family": "Carlucci",
+        "given": "Philip M"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinghao"
+      },
+      {
+        "family": "Naz",
+        "given": "Faiza"
+      },
+      {
+        "family": "Manna",
+        "given": "Zerai"
+      },
+      {
+        "family": "Dey",
+        "given": "Amit"
+      },
+      {
+        "family": "Mehta",
+        "given": "Nehal N"
+      },
+      {
+        "family": "Hasni",
+        "given": "Sarfaraz"
+      },
+      {
+        "family": "Dell'Orso",
+        "given": "Stefania"
+      },
+      {
+        "family": "Gutierrez-Cruz",
+        "given": "Gustavo"
+      },
+      {
+        "family": "Sun",
+        "given": "Hong-Wei"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Mariana J"
+      }
+    ],
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc Natl Acad Sci U S A",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "116",
+    "issue": "50",
+    "page": "25222-25228",
+    "note": "PMID: 31754025",
+    "URL": "https://doi.org/10.1073/pnas.1908576116",
+    "language": "en",
+    "DOI": "10.1073/pnas.1908576116"
+  },
+  {
+    "id": 39,
+    "type": "article-journal",
+    "title": "The immune cell landscape in kidneys of patients with lupus nephritis",
+    "author": [
+      {
+        "family": "Arazi",
+        "given": "Arnon"
+      },
+      {
+        "family": "Rao",
+        "given": "Deepak A"
+      },
+      {
+        "family": "Berthier",
+        "given": "Celine C"
+      },
+      {
+        "family": "Davidson",
+        "given": "Anne"
+      },
+      {
+        "family": "Liu",
+        "given": "Yanyan"
+      },
+      {
+        "family": "Hoover",
+        "given": "Paul J"
+      },
+      {
+        "family": "Chicoine",
+        "given": "Adam"
+      },
+      {
+        "family": "Eisenhaure",
+        "given": "Thomas M"
+      },
+      {
+        "family": "Jonsson",
+        "given": "A Helena"
+      },
+      {
+        "family": "Li",
+        "given": "Shuqiang"
+      },
+      {
+        "family": "Lieb",
+        "given": "David J"
+      },
+      {
+        "family": "Zhang",
+        "given": "Fan"
+      },
+      {
+        "family": "Slowikowski",
+        "given": "Kamil"
+      },
+      {
+        "family": "Browne",
+        "given": "Edward P"
+      },
+      {
+        "family": "Noma",
+        "given": "Akiko"
+      },
+      {
+        "family": "Sutherby",
+        "given": "Danielle"
+      },
+      {
+        "family": "Steelman",
+        "given": "Scott"
+      },
+      {
+        "family": "Smilek",
+        "given": "Dawn E"
+      },
+      {
+        "family": "Tosta",
+        "given": "Patti"
+      },
+      {
+        "family": "Apruzzese",
+        "given": "William"
+      },
+      {
+        "family": "Massarotti",
+        "given": "Elena"
+      },
+      {
+        "family": "Dall'Era",
+        "given": "Maria"
+      },
+      {
+        "family": "Park",
+        "given": "Meyeon"
+      },
+      {
+        "family": "Kamen",
+        "given": "Diane L"
+      },
+      {
+        "family": "Furie",
+        "given": "Richard A"
+      },
+      {
+        "family": "Payan-Schober",
+        "given": "Fernanda"
+      },
+      {
+        "family": "Pendergraft",
+        "given": "William F"
+      },
+      {
+        "family": "McInnis",
+        "given": "Elizabeth A"
+      },
+      {
+        "family": "Buyon",
+        "given": "Jill P"
+      },
+      {
+        "family": "Petri",
+        "given": "Michelle A"
+      },
+      {
+        "family": "Putterman",
+        "given": "Chaim"
+      },
+      {
+        "family": "Kalunian",
+        "given": "Kenneth C"
+      },
+      {
+        "family": "Woodle",
+        "given": "E Steve"
+      },
+      {
+        "family": "Lederer",
+        "given": "James A"
+      },
+      {
+        "family": "Hildeman",
+        "given": "David A"
+      },
+      {
+        "family": "Nusbaum",
+        "given": "Chad"
+      },
+      {
+        "family": "Raychaudhuri",
+        "given": "Soumya"
+      },
+      {
+        "family": "Kretzler",
+        "given": "Matthias"
+      },
+      {
+        "family": "Anolik",
+        "given": "Jennifer H"
+      },
+      {
+        "family": "Brenner",
+        "given": "Michael B"
+      },
+      {
+        "family": "Wofsy",
+        "given": "David"
+      },
+      {
+        "family": "Hacohen",
+        "given": "Nir"
+      },
+      {
+        "family": "Diamond",
+        "given": "Betty"
+      },
+      {
+        "literal": "Accelerating Medicines Partnership in SLE network"
+      }
+    ],
+    "container-title": "Nature immunology",
+    "container-title-short": "Nat Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "20",
+    "issue": "7",
+    "page": "902-914",
+    "note": "PMID: 31209404",
+    "URL": "https://doi.org/10.1038/s41590-019-0398-x",
+    "language": "en",
+    "DOI": "10.1038/s41590-019-0398-x"
+  },
+  {
+    "id": 40,
+    "type": "article-journal",
+    "title": "Tubular cell and keratinocyte single-cell transcriptomics applied to lupus nephritis reveal type I IFN and fibrosis relevant pathways",
+    "author": [
+      {
+        "family": "Der",
+        "given": "Evan"
+      },
+      {
+        "family": "Suryawanshi",
+        "given": "Hemant"
+      },
+      {
+        "family": "Morozov",
+        "given": "Pavel"
+      },
+      {
+        "family": "Kustagi",
+        "given": "Manjunath"
+      },
+      {
+        "family": "Goilav",
+        "given": "Beatrice"
+      },
+      {
+        "family": "Ranabothu",
+        "given": "Saritha"
+      },
+      {
+        "family": "Izmirly",
+        "given": "Peter"
+      },
+      {
+        "family": "Clancy",
+        "given": "Robert"
+      },
+      {
+        "family": "Belmont",
+        "given": "H Michael"
+      },
+      {
+        "family": "Koenigsberg",
+        "given": "Mordecai"
+      },
+      {
+        "family": "Mokrzycki",
+        "given": "Michele"
+      },
+      {
+        "family": "Rominieki",
+        "given": "Helen"
+      },
+      {
+        "family": "Graham",
+        "given": "Jay A"
+      },
+      {
+        "family": "Rocca",
+        "given": "Juan P"
+      },
+      {
+        "family": "Bornkamp",
+        "given": "Nicole"
+      },
+      {
+        "family": "Jordan",
+        "given": "Nicole"
+      },
+      {
+        "family": "Schulte",
+        "given": "Emma"
+      },
+      {
+        "family": "Wu",
+        "given": "Ming"
+      },
+      {
+        "family": "Pullman",
+        "given": "James"
+      },
+      {
+        "family": "Slowikowski",
+        "given": "Kamil"
+      },
+      {
+        "family": "Raychaudhuri",
+        "given": "Soumya"
+      },
+      {
+        "family": "Guthridge",
+        "given": "Joel"
+      },
+      {
+        "family": "James",
+        "given": "Judith"
+      },
+      {
+        "family": "Buyon",
+        "given": "Jill"
+      },
+      {
+        "family": "Tuschl",
+        "given": "Thomas"
+      },
+      {
+        "family": "Putterman",
+        "given": "Chaim"
+      },
+      {
+        "literal": "Accelerating Medicines Partnership Rheumatoid Arthritis and Systemic Lupus Erythematosus (AMP RA/SLE) Consortium"
+      }
+    ],
+    "container-title": "Nature immunology",
+    "container-title-short": "Nat Immunol",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "volume": "20",
+    "issue": "7",
+    "page": "915-927",
+    "note": "PMID: 31110316",
+    "URL": "https://doi.org/10.1038/s41590-019-0386-1",
+    "language": "en",
+    "DOI": "10.1038/s41590-019-0386-1"
+  },
+  {
+    "id": 41,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE65391",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65391",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE88884",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE88884",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE49454",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE49454",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE121239",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121239",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE32591",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE32591",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE72747",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72747",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GSE200306",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200306",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "type": "webpage",
+    "title": "CZ CELLxGENE Discover: CD3×CD19 bispecific SLE trial collection",
+    "author": [
+      {
+        "literal": "Chan Zuckerberg Initiative"
+      }
+    ],
+    "URL": "https://cellxgene.cziscience.com/collections/6c147b03-08e4-4bb7-afb7-2bcc0a814b65",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "type": "webpage",
+    "title": "Gene Expression Omnibus: GPL570 platform annotation",
+    "author": [
+      {
+        "literal": "National Center for Biotechnology Information"
+      }
+    ],
+    "URL": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    }
+  }
+]

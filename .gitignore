@@ -1,0 +1,9 @@
+work/
+__pycache__/
+*.pyc
+.DS_Store
+rendered_figures/
+inputs/cache/*.gz
+inputs/cache/*.h5ad
+sources/*
+*.partial
